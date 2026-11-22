@@ -1,0 +1,7528 @@
+{
+ "sozler": {
+  "slug": "sozler",
+  "bookTitle": "Sözler",
+  "pageCount": 1477,
+  "wordCount": 244309,
+  "lugatCount": 28851,
+  "sections": [
+   {
+    "id": 1,
+    "title": "Giriş",
+    "startPage": 1,
+    "pdfPage": 1,
+    "paragraphCount": 67,
+    "lugatCount": 0
+   },
+   {
+    "id": 2,
+    "title": "Birinci Söz",
+    "startPage": 11,
+    "pdfPage": 11,
+    "paragraphCount": 59,
+    "lugatCount": 504
+   },
+   {
+    "id": 3,
+    "title": "İkinci Söz",
+    "startPage": 32,
+    "pdfPage": 29,
+    "paragraphCount": 24,
+    "lugatCount": 161
+   },
+   {
+    "id": 4,
+    "title": "Üçüncü Söz",
+    "startPage": 35,
+    "pdfPage": 32,
+    "paragraphCount": 12,
+    "lugatCount": 149
+   },
+   {
+    "id": 5,
+    "title": "Dördüncü Söz",
+    "startPage": 39,
+    "pdfPage": 36,
+    "paragraphCount": 14,
+    "lugatCount": 81
+   },
+   {
+    "id": 6,
+    "title": "Beşinci Söz",
+    "startPage": 42,
+    "pdfPage": 39,
+    "paragraphCount": 33,
+    "lugatCount": 113
+   },
+   {
+    "id": 7,
+    "title": "Altıncı Söz",
+    "startPage": 46,
+    "pdfPage": 43,
+    "paragraphCount": 50,
+    "lugatCount": 212
+   },
+   {
+    "id": 8,
+    "title": "Yedinci Söz",
+    "startPage": 53,
+    "pdfPage": 50,
+    "paragraphCount": 50,
+    "lugatCount": 202
+   },
+   {
+    "id": 9,
+    "title": "Sekizinci Söz",
+    "startPage": 60,
+    "pdfPage": 57,
+    "paragraphCount": 52,
+    "lugatCount": 337
+   },
+   {
+    "id": 10,
+    "title": "Dokuzuncu Söz",
+    "startPage": 70,
+    "pdfPage": 67,
+    "paragraphCount": 47,
+    "lugatCount": 394
+   },
+   {
+    "id": 11,
+    "title": "Onuncu Söz",
+    "startPage": 82,
+    "pdfPage": 79,
+    "paragraphCount": 423,
+    "lugatCount": 2098
+   },
+   {
+    "id": 12,
+    "title": "On Birinci Söz",
+    "startPage": 197,
+    "pdfPage": 194,
+    "paragraphCount": 77,
+    "lugatCount": 477
+   },
+   {
+    "id": 13,
+    "title": "On İkinci Söz",
+    "startPage": 214,
+    "pdfPage": 211,
+    "paragraphCount": 54,
+    "lugatCount": 337
+   },
+   {
+    "id": 14,
+    "title": "On Üçüncü Söz",
+    "startPage": 225,
+    "pdfPage": 222,
+    "paragraphCount": 137,
+    "lugatCount": 937
+   },
+   {
+    "id": 15,
+    "title": "On Dördüncü Söz",
+    "startPage": 266,
+    "pdfPage": 263,
+    "paragraphCount": 101,
+    "lugatCount": 581
+   },
+   {
+    "id": 16,
+    "title": "On Beşinci Söz",
+    "startPage": 287,
+    "pdfPage": 284,
+    "paragraphCount": 86,
+    "lugatCount": 870
+   },
+   {
+    "id": 17,
+    "title": "On Altıncı Söz",
+    "startPage": 314,
+    "pdfPage": 311,
+    "paragraphCount": 59,
+    "lugatCount": 414
+   },
+   {
+    "id": 18,
+    "title": "On Yedinci Söz",
+    "startPage": 328,
+    "pdfPage": 325,
+    "paragraphCount": 227,
+    "lugatCount": 727
+   },
+   {
+    "id": 19,
+    "title": "On Sekizinci Söz",
+    "startPage": 363,
+    "pdfPage": 360,
+    "paragraphCount": 38,
+    "lugatCount": 207
+   },
+   {
+    "id": 20,
+    "title": "On Dokuzuncu Söz",
+    "startPage": 370,
+    "pdfPage": 367,
+    "paragraphCount": 86,
+    "lugatCount": 507
+   },
+   {
+    "id": 21,
+    "title": "Yirminci Söz",
+    "startPage": 387,
+    "pdfPage": 384,
+    "paragraphCount": 123,
+    "lugatCount": 846
+   },
+   {
+    "id": 22,
+    "title": "Yirmi Birinci Söz",
+    "startPage": 424,
+    "pdfPage": 421,
+    "paragraphCount": 74,
+    "lugatCount": 536
+   },
+   {
+    "id": 23,
+    "title": "Yirmi İkinci Söz",
+    "startPage": 442,
+    "pdfPage": 439,
+    "paragraphCount": 199,
+    "lugatCount": 1147
+   },
+   {
+    "id": 24,
+    "title": "Yirmi Üçüncü Söz",
+    "startPage": 495,
+    "pdfPage": 492,
+    "paragraphCount": 128,
+    "lugatCount": 861
+   },
+   {
+    "id": 25,
+    "title": "Yirmi Dördüncü Söz",
+    "startPage": 531,
+    "pdfPage": 528,
+    "paragraphCount": 173,
+    "lugatCount": 1327
+   },
+   {
+    "id": 26,
+    "title": "Yirmi Beşinci Söz",
+    "startPage": 586,
+    "pdfPage": 583,
+    "paragraphCount": 608,
+    "lugatCount": 2875
+   },
+   {
+    "id": 27,
+    "title": "Yirmi Altıncı Söz",
+    "startPage": 751,
+    "pdfPage": 748,
+    "paragraphCount": 100,
+    "lugatCount": 743
+   },
+   {
+    "id": 28,
+    "title": "Yirmi Yedinci Söz",
+    "startPage": 778,
+    "pdfPage": 775,
+    "paragraphCount": 95,
+    "lugatCount": 772
+   },
+   {
+    "id": 29,
+    "title": "Yirmi Sekizinci Söz",
+    "startPage": 807,
+    "pdfPage": 804,
+    "paragraphCount": 36,
+    "lugatCount": 356
+   },
+   {
+    "id": 30,
+    "title": "Yirmi Dokuzuncu Söz",
+    "startPage": 818,
+    "pdfPage": 815,
+    "paragraphCount": 187,
+    "lugatCount": 1270
+   },
+   {
+    "id": 31,
+    "title": "Otuzuncu Söz",
+    "startPage": 872,
+    "pdfPage": 869,
+    "paragraphCount": 126,
+    "lugatCount": 1049
+   },
+   {
+    "id": 32,
+    "title": "Otuz Birinci Söz",
+    "startPage": 910,
+    "pdfPage": 907,
+    "paragraphCount": 169,
+    "lugatCount": 1281
+   },
+   {
+    "id": 33,
+    "title": "Otuz İkinci Söz",
+    "startPage": 962,
+    "pdfPage": 959,
+    "paragraphCount": 376,
+    "lugatCount": 1807
+   },
+   {
+    "id": 34,
+    "title": "Otuz Üçüncü Söz",
+    "startPage": 1064,
+    "pdfPage": 1061,
+    "paragraphCount": 226,
+    "lugatCount": 1252
+   },
+   {
+    "id": 35,
+    "title": "Lemaat",
+    "startPage": 1123,
+    "pdfPage": 1123,
+    "paragraphCount": 831,
+    "lugatCount": 2301
+   },
+   {
+    "id": 36,
+    "title": "Konferans",
+    "startPage": 1215,
+    "pdfPage": 1211,
+    "paragraphCount": 137,
+    "lugatCount": 1089
+   },
+   {
+    "id": 37,
+    "title": "Dua",
+    "startPage": 1256,
+    "pdfPage": 1252,
+    "paragraphCount": 3,
+    "lugatCount": 31
+   },
+   {
+    "id": 38,
+    "title": "Şahıs Bilgileri",
+    "startPage": 1281,
+    "pdfPage": 1277,
+    "paragraphCount": 142,
+    "lugatCount": 0
+   },
+   {
+    "id": 39,
+    "title": "Yer Bilgileri",
+    "startPage": 1305,
+    "pdfPage": 1301,
+    "paragraphCount": 89,
+    "lugatCount": 0
+   },
+   {
+    "id": 40,
+    "title": "Ekler",
+    "startPage": 1313,
+    "pdfPage": 1309,
+    "paragraphCount": 1308,
+    "lugatCount": 0
+   },
+   {
+    "id": 41,
+    "title": "Kronolojik Bilgiler",
+    "startPage": 1469,
+    "pdfPage": 1463,
+    "paragraphCount": 865,
+    "lugatCount": 0
+   }
+  ]
+ },
+ "asa-yi-musa": {
+  "slug": "asa-yi-musa",
+  "bookTitle": "Asa-yı Mûsa",
+  "pageCount": 563,
+  "wordCount": 92925,
+  "lugatCount": 5050,
+  "sections": [
+   {
+    "id": 1,
+    "title": "Takdim",
+    "startPage": 9,
+    "pdfPage": 5,
+    "paragraphCount": 20,
+    "lugatCount": 0
+   },
+   {
+    "id": 2,
+    "title": "Biyografi",
+    "startPage": 11,
+    "pdfPage": 7,
+    "paragraphCount": 41,
+    "lugatCount": 0
+   },
+   {
+    "id": 3,
+    "title": "Meyve Risalesi",
+    "startPage": 15,
+    "pdfPage": 11,
+    "paragraphCount": 1495,
+    "lugatCount": 4161
+   },
+   {
+    "id": 4,
+    "title": "İmanî Ve Hakikî Mektuplar",
+    "startPage": 398,
+    "pdfPage": 398,
+    "paragraphCount": 239,
+    "lugatCount": 888
+   },
+   {
+    "id": 5,
+    "title": "Ekler",
+    "startPage": 445,
+    "pdfPage": 441,
+    "paragraphCount": 10,
+    "lugatCount": 0
+   },
+   {
+    "id": 6,
+    "title": "Telif Tarihçesi",
+    "startPage": 446,
+    "pdfPage": 442,
+    "paragraphCount": 3,
+    "lugatCount": 0
+   },
+   {
+    "id": 7,
+    "title": "Şahıs Bilgileri",
+    "startPage": 447,
+    "pdfPage": 443,
+    "paragraphCount": 76,
+    "lugatCount": 0
+   },
+   {
+    "id": 8,
+    "title": "Yer Bilgileri",
+    "startPage": 461,
+    "pdfPage": 457,
+    "paragraphCount": 39,
+    "lugatCount": 0
+   },
+   {
+    "id": 9,
+    "title": "Arapça Metin İndeksi",
+    "startPage": 467,
+    "pdfPage": 463,
+    "paragraphCount": 697,
+    "lugatCount": 0
+   },
+   {
+    "id": 10,
+    "title": "Hadis İndeksi",
+    "startPage": 484,
+    "pdfPage": 480,
+    "paragraphCount": 15,
+    "lugatCount": 0
+   },
+   {
+    "id": 11,
+    "title": "Şahıs İndeksi",
+    "startPage": 485,
+    "pdfPage": 481,
+    "paragraphCount": 78,
+    "lugatCount": 0
+   },
+   {
+    "id": 12,
+    "title": "Yer İndeksi",
+    "startPage": 488,
+    "pdfPage": 484,
+    "paragraphCount": 15,
+    "lugatCount": 0
+   },
+   {
+    "id": 13,
+    "title": "Genel İndeks",
+    "startPage": 489,
+    "pdfPage": 485,
+    "paragraphCount": 1,
+    "lugatCount": 1
+   },
+   {
+    "id": 14,
+    "title": "Kronolojik Bilgiler",
+    "startPage": 553,
+    "pdfPage": 549,
+    "paragraphCount": 850,
+    "lugatCount": 0
+   }
+  ]
+ },
+ "barla-lahikasi": {
+  "slug": "barla-lahikasi",
+  "bookTitle": "Barla Lâhikası",
+  "pageCount": 741,
+  "wordCount": 132166,
+  "lugatCount": 15998,
+  "sections": [
+   {
+    "id": 1,
+    "title": "Giriş",
+    "startPage": 1,
+    "pdfPage": 1,
+    "paragraphCount": 6,
+    "lugatCount": 0
+   },
+   {
+    "id": 2,
+    "title": "Sayfa 1–20",
+    "startPage": 5,
+    "pdfPage": 2,
+    "paragraphCount": 250,
+    "lugatCount": 0
+   },
+   {
+    "id": 3,
+    "title": "Sayfa 21–40",
+    "startPage": 21,
+    "pdfPage": 18,
+    "paragraphCount": 87,
+    "lugatCount": 505
+   },
+   {
+    "id": 4,
+    "title": "Sayfa 41–60",
+    "startPage": 41,
+    "pdfPage": 37,
+    "paragraphCount": 81,
+    "lugatCount": 646
+   },
+   {
+    "id": 5,
+    "title": "Sayfa 61–80",
+    "startPage": 61,
+    "pdfPage": 57,
+    "paragraphCount": 86,
+    "lugatCount": 625
+   },
+   {
+    "id": 6,
+    "title": "Sayfa 81–100",
+    "startPage": 81,
+    "pdfPage": 77,
+    "paragraphCount": 98,
+    "lugatCount": 672
+   },
+   {
+    "id": 7,
+    "title": "Sayfa 101–120",
+    "startPage": 101,
+    "pdfPage": 97,
+    "paragraphCount": 86,
+    "lugatCount": 640
+   },
+   {
+    "id": 8,
+    "title": "Sayfa 121–140",
+    "startPage": 121,
+    "pdfPage": 117,
+    "paragraphCount": 89,
+    "lugatCount": 536
+   },
+   {
+    "id": 9,
+    "title": "Sayfa 141–160",
+    "startPage": 141,
+    "pdfPage": 137,
+    "paragraphCount": 85,
+    "lugatCount": 637
+   },
+   {
+    "id": 10,
+    "title": "Sayfa 161–180",
+    "startPage": 161,
+    "pdfPage": 157,
+    "paragraphCount": 140,
+    "lugatCount": 585
+   },
+   {
+    "id": 11,
+    "title": "Sayfa 181–200",
+    "startPage": 181,
+    "pdfPage": 177,
+    "paragraphCount": 101,
+    "lugatCount": 581
+   },
+   {
+    "id": 12,
+    "title": "Sayfa 201–220",
+    "startPage": 201,
+    "pdfPage": 197,
+    "paragraphCount": 105,
+    "lugatCount": 503
+   },
+   {
+    "id": 13,
+    "title": "Sayfa 221–240",
+    "startPage": 221,
+    "pdfPage": 217,
+    "paragraphCount": 94,
+    "lugatCount": 555
+   },
+   {
+    "id": 14,
+    "title": "Sayfa 241–260",
+    "startPage": 241,
+    "pdfPage": 237,
+    "paragraphCount": 100,
+    "lugatCount": 518
+   },
+   {
+    "id": 15,
+    "title": "Sayfa 261–280",
+    "startPage": 261,
+    "pdfPage": 257,
+    "paragraphCount": 104,
+    "lugatCount": 396
+   },
+   {
+    "id": 16,
+    "title": "Sayfa 281–300",
+    "startPage": 281,
+    "pdfPage": 277,
+    "paragraphCount": 121,
+    "lugatCount": 614
+   },
+   {
+    "id": 17,
+    "title": "Sayfa 301–320",
+    "startPage": 301,
+    "pdfPage": 297,
+    "paragraphCount": 129,
+    "lugatCount": 608
+   },
+   {
+    "id": 18,
+    "title": "Sayfa 321–340",
+    "startPage": 321,
+    "pdfPage": 317,
+    "paragraphCount": 80,
+    "lugatCount": 578
+   },
+   {
+    "id": 19,
+    "title": "Sayfa 341–360",
+    "startPage": 341,
+    "pdfPage": 337,
+    "paragraphCount": 118,
+    "lugatCount": 598
+   },
+   {
+    "id": 20,
+    "title": "Sayfa 361–380",
+    "startPage": 361,
+    "pdfPage": 357,
+    "paragraphCount": 95,
+    "lugatCount": 433
+   },
+   {
+    "id": 21,
+    "title": "Sayfa 381–400",
+    "startPage": 381,
+    "pdfPage": 377,
+    "paragraphCount": 93,
+    "lugatCount": 586
+   },
+   {
+    "id": 22,
+    "title": "Sayfa 401–420",
+    "startPage": 401,
+    "pdfPage": 397,
+    "paragraphCount": 98,
+    "lugatCount": 476
+   },
+   {
+    "id": 23,
+    "title": "Sayfa 421–440",
+    "startPage": 421,
+    "pdfPage": 417,
+    "paragraphCount": 101,
+    "lugatCount": 506
+   },
+   {
+    "id": 24,
+    "title": "Sayfa 441–460",
+    "startPage": 441,
+    "pdfPage": 437,
+    "paragraphCount": 100,
+    "lugatCount": 479
+   },
+   {
+    "id": 25,
+    "title": "Sayfa 461–480",
+    "startPage": 461,
+    "pdfPage": 457,
+    "paragraphCount": 118,
+    "lugatCount": 491
+   },
+   {
+    "id": 26,
+    "title": "Sayfa 481–500",
+    "startPage": 481,
+    "pdfPage": 477,
+    "paragraphCount": 98,
+    "lugatCount": 468
+   },
+   {
+    "id": 27,
+    "title": "Sayfa 501–520",
+    "startPage": 501,
+    "pdfPage": 497,
+    "paragraphCount": 130,
+    "lugatCount": 430
+   },
+   {
+    "id": 28,
+    "title": "Sayfa 521–540",
+    "startPage": 521,
+    "pdfPage": 517,
+    "paragraphCount": 126,
+    "lugatCount": 428
+   },
+   {
+    "id": 29,
+    "title": "Sayfa 541–560",
+    "startPage": 541,
+    "pdfPage": 537,
+    "paragraphCount": 122,
+    "lugatCount": 412
+   },
+   {
+    "id": 30,
+    "title": "Sayfa 561–580",
+    "startPage": 561,
+    "pdfPage": 557,
+    "paragraphCount": 110,
+    "lugatCount": 460
+   },
+   {
+    "id": 31,
+    "title": "Sayfa 581–600",
+    "startPage": 581,
+    "pdfPage": 577,
+    "paragraphCount": 139,
+    "lugatCount": 544
+   },
+   {
+    "id": 32,
+    "title": "Sayfa 601–620",
+    "startPage": 601,
+    "pdfPage": 597,
+    "paragraphCount": 112,
+    "lugatCount": 456
+   },
+   {
+    "id": 33,
+    "title": "Sayfa 621–640",
+    "startPage": 621,
+    "pdfPage": 617,
+    "paragraphCount": 4,
+    "lugatCount": 32
+   },
+   {
+    "id": 34,
+    "title": "Şahıs Bilgileri",
+    "startPage": 623,
+    "pdfPage": 619,
+    "paragraphCount": 8,
+    "lugatCount": 0
+   },
+   {
+    "id": 35,
+    "title": "Şahıs Bilgileri",
+    "startPage": 625,
+    "pdfPage": 621,
+    "paragraphCount": 183,
+    "lugatCount": 0
+   },
+   {
+    "id": 36,
+    "title": "Yer Bilgileri",
+    "startPage": 661,
+    "pdfPage": 657,
+    "paragraphCount": 47,
+    "lugatCount": 0
+   },
+   {
+    "id": 37,
+    "title": "Arapça Metin İndeksi",
+    "startPage": 671,
+    "pdfPage": 667,
+    "paragraphCount": 866,
+    "lugatCount": 0
+   },
+   {
+    "id": 38,
+    "title": "Hadis İndeksi",
+    "startPage": 691,
+    "pdfPage": 687,
+    "paragraphCount": 22,
+    "lugatCount": 0
+   },
+   {
+    "id": 39,
+    "title": "Şahıs İndeksi",
+    "startPage": 693,
+    "pdfPage": 689,
+    "paragraphCount": 182,
+    "lugatCount": 0
+   },
+   {
+    "id": 40,
+    "title": "Yer İndeksi",
+    "startPage": 700,
+    "pdfPage": 696,
+    "paragraphCount": 29,
+    "lugatCount": 0
+   },
+   {
+    "id": 41,
+    "title": "Şahıs İndeksi",
+    "startPage": 701,
+    "pdfPage": 697,
+    "paragraphCount": 11,
+    "lugatCount": 0
+   },
+   {
+    "id": 42,
+    "title": "Genel İndeks",
+    "startPage": 703,
+    "pdfPage": 699,
+    "paragraphCount": 860,
+    "lugatCount": 0
+   }
+  ]
+ },
+ "emirdag-lahikasi": {
+  "slug": "emirdag-lahikasi",
+  "bookTitle": "Emirdağ Lâhikası - I",
+  "pageCount": 1035,
+  "wordCount": 200556,
+  "lugatCount": 13088,
+  "sections": [
+   {
+    "id": 1,
+    "title": "Giriş",
+    "startPage": 1,
+    "pdfPage": 1,
+    "paragraphCount": 428,
+    "lugatCount": 0
+   },
+   {
+    "id": 2,
+    "title": "Sayfa 21–40",
+    "startPage": 29,
+    "pdfPage": 26,
+    "paragraphCount": 35,
+    "lugatCount": 345
+   },
+   {
+    "id": 3,
+    "title": "Sayfa 41–60",
+    "startPage": 41,
+    "pdfPage": 38,
+    "paragraphCount": 84,
+    "lugatCount": 460
+   },
+   {
+    "id": 4,
+    "title": "Sayfa 61–80",
+    "startPage": 61,
+    "pdfPage": 58,
+    "paragraphCount": 88,
+    "lugatCount": 443
+   },
+   {
+    "id": 5,
+    "title": "Sayfa 81–100",
+    "startPage": 81,
+    "pdfPage": 78,
+    "paragraphCount": 81,
+    "lugatCount": 467
+   },
+   {
+    "id": 6,
+    "title": "Sayfa 101–120",
+    "startPage": 101,
+    "pdfPage": 98,
+    "paragraphCount": 81,
+    "lugatCount": 482
+   },
+   {
+    "id": 7,
+    "title": "Sayfa 121–140",
+    "startPage": 121,
+    "pdfPage": 118,
+    "paragraphCount": 87,
+    "lugatCount": 507
+   },
+   {
+    "id": 8,
+    "title": "Sayfa 141–160",
+    "startPage": 141,
+    "pdfPage": 138,
+    "paragraphCount": 95,
+    "lugatCount": 482
+   },
+   {
+    "id": 9,
+    "title": "Sayfa 161–180",
+    "startPage": 161,
+    "pdfPage": 158,
+    "paragraphCount": 85,
+    "lugatCount": 510
+   },
+   {
+    "id": 10,
+    "title": "Sayfa 181–200",
+    "startPage": 181,
+    "pdfPage": 178,
+    "paragraphCount": 101,
+    "lugatCount": 455
+   },
+   {
+    "id": 11,
+    "title": "Sayfa 201–220",
+    "startPage": 201,
+    "pdfPage": 198,
+    "paragraphCount": 74,
+    "lugatCount": 519
+   },
+   {
+    "id": 12,
+    "title": "Sayfa 221–240",
+    "startPage": 221,
+    "pdfPage": 218,
+    "paragraphCount": 98,
+    "lugatCount": 400
+   },
+   {
+    "id": 13,
+    "title": "Sayfa 241–260",
+    "startPage": 241,
+    "pdfPage": 238,
+    "paragraphCount": 93,
+    "lugatCount": 430
+   },
+   {
+    "id": 14,
+    "title": "Sayfa 261–280",
+    "startPage": 261,
+    "pdfPage": 258,
+    "paragraphCount": 110,
+    "lugatCount": 477
+   },
+   {
+    "id": 15,
+    "title": "Sayfa 281–300",
+    "startPage": 281,
+    "pdfPage": 278,
+    "paragraphCount": 102,
+    "lugatCount": 377
+   },
+   {
+    "id": 16,
+    "title": "Sayfa 301–320",
+    "startPage": 301,
+    "pdfPage": 298,
+    "paragraphCount": 80,
+    "lugatCount": 443
+   },
+   {
+    "id": 17,
+    "title": "Sayfa 321–340",
+    "startPage": 321,
+    "pdfPage": 318,
+    "paragraphCount": 88,
+    "lugatCount": 427
+   },
+   {
+    "id": 18,
+    "title": "Sayfa 341–360",
+    "startPage": 341,
+    "pdfPage": 338,
+    "paragraphCount": 76,
+    "lugatCount": 485
+   },
+   {
+    "id": 19,
+    "title": "Sayfa 361–380",
+    "startPage": 361,
+    "pdfPage": 358,
+    "paragraphCount": 78,
+    "lugatCount": 493
+   },
+   {
+    "id": 20,
+    "title": "Sayfa 381–400",
+    "startPage": 381,
+    "pdfPage": 378,
+    "paragraphCount": 77,
+    "lugatCount": 399
+   },
+   {
+    "id": 21,
+    "title": "Sayfa 401–420",
+    "startPage": 401,
+    "pdfPage": 398,
+    "paragraphCount": 97,
+    "lugatCount": 432
+   },
+   {
+    "id": 22,
+    "title": "Sayfa 421–440",
+    "startPage": 421,
+    "pdfPage": 418,
+    "paragraphCount": 79,
+    "lugatCount": 488
+   },
+   {
+    "id": 23,
+    "title": "Sayfa 441–460",
+    "startPage": 441,
+    "pdfPage": 438,
+    "paragraphCount": 84,
+    "lugatCount": 410
+   },
+   {
+    "id": 24,
+    "title": "Sayfa 461–480",
+    "startPage": 461,
+    "pdfPage": 458,
+    "paragraphCount": 74,
+    "lugatCount": 415
+   },
+   {
+    "id": 25,
+    "title": "Sayfa 481–500",
+    "startPage": 481,
+    "pdfPage": 478,
+    "paragraphCount": 4009,
+    "lugatCount": 2742
+   }
+  ]
+ },
+ "iman-ve-kufur-muvazeneleri": {
+  "slug": "iman-ve-kufur-muvazeneleri",
+  "bookTitle": "Hidayet Ve Dalâlet Mukayeseleri",
+  "pageCount": 323,
+  "wordCount": 59424,
+  "lugatCount": 9056,
+  "sections": [
+   {
+    "id": 1,
+    "title": "Takdim",
+    "startPage": 3,
+    "pdfPage": 3,
+    "paragraphCount": 22,
+    "lugatCount": 0
+   },
+   {
+    "id": 2,
+    "title": "Biyografi",
+    "startPage": 5,
+    "pdfPage": 5,
+    "paragraphCount": 42,
+    "lugatCount": 0
+   },
+   {
+    "id": 3,
+    "title": "Mühim Bir Suale Cevap",
+    "startPage": 9,
+    "pdfPage": 9,
+    "paragraphCount": 39,
+    "lugatCount": 229
+   },
+   {
+    "id": 4,
+    "title": "Birinci Söz",
+    "startPage": 17,
+    "pdfPage": 17,
+    "paragraphCount": 21,
+    "lugatCount": 124
+   },
+   {
+    "id": 5,
+    "title": "İkinci Söz",
+    "startPage": 21,
+    "pdfPage": 21,
+    "paragraphCount": 20,
+    "lugatCount": 180
+   },
+   {
+    "id": 6,
+    "title": "Üçüncü Söz",
+    "startPage": 25,
+    "pdfPage": 25,
+    "paragraphCount": 31,
+    "lugatCount": 146
+   },
+   {
+    "id": 7,
+    "title": "Dördüncü Söz",
+    "startPage": 29,
+    "pdfPage": 29,
+    "paragraphCount": 30,
+    "lugatCount": 58
+   },
+   {
+    "id": 8,
+    "title": "Beşinci Söz",
+    "startPage": 31,
+    "pdfPage": 31,
+    "paragraphCount": 25,
+    "lugatCount": 113
+   },
+   {
+    "id": 9,
+    "title": "Altıncı Söz",
+    "startPage": 35,
+    "pdfPage": 35,
+    "paragraphCount": 45,
+    "lugatCount": 249
+   },
+   {
+    "id": 10,
+    "title": "Yedinci Söz",
+    "startPage": 43,
+    "pdfPage": 43,
+    "paragraphCount": 57,
+    "lugatCount": 171
+   },
+   {
+    "id": 11,
+    "title": "Sekizinci Söz",
+    "startPage": 49,
+    "pdfPage": 49,
+    "paragraphCount": 54,
+    "lugatCount": 333
+   },
+   {
+    "id": 12,
+    "title": "On İkinci Söz",
+    "startPage": 59,
+    "pdfPage": 59,
+    "paragraphCount": 20,
+    "lugatCount": 184
+   },
+   {
+    "id": 13,
+    "title": "On Üçüncü Söz",
+    "startPage": 63,
+    "pdfPage": 63,
+    "paragraphCount": 89,
+    "lugatCount": 505
+   },
+   {
+    "id": 14,
+    "title": "On Dördüncü Söz",
+    "startPage": 83,
+    "pdfPage": 83,
+    "paragraphCount": 16,
+    "lugatCount": 131
+   },
+   {
+    "id": 15,
+    "title": "On Yedinci Söz",
+    "startPage": 87,
+    "pdfPage": 87,
+    "paragraphCount": 171,
+    "lugatCount": 478
+   },
+   {
+    "id": 16,
+    "title": "Yirmi Üçüncü Söz",
+    "startPage": 107,
+    "pdfPage": 107,
+    "paragraphCount": 180,
+    "lugatCount": 888
+   },
+   {
+    "id": 17,
+    "title": "Yirmi Dördüncü Söz",
+    "startPage": 143,
+    "pdfPage": 143,
+    "paragraphCount": 49,
+    "lugatCount": 368
+   },
+   {
+    "id": 18,
+    "title": "Yirmi Beşinci Söz",
+    "startPage": 155,
+    "pdfPage": 155,
+    "paragraphCount": 50,
+    "lugatCount": 386
+   },
+   {
+    "id": 19,
+    "title": "Onuncu Mesele",
+    "startPage": 165,
+    "pdfPage": 165,
+    "paragraphCount": 39,
+    "lugatCount": 127
+   },
+   {
+    "id": 20,
+    "title": "Yirmi Altıncı Söz",
+    "startPage": 169,
+    "pdfPage": 169,
+    "paragraphCount": 48,
+    "lugatCount": 228
+   },
+   {
+    "id": 21,
+    "title": "Otuzuncu Söz",
+    "startPage": 175,
+    "pdfPage": 175,
+    "paragraphCount": 80,
+    "lugatCount": 598
+   },
+   {
+    "id": 22,
+    "title": "Otuz İkinci Söz",
+    "startPage": 193,
+    "pdfPage": 193,
+    "paragraphCount": 39,
+    "lugatCount": 388
+   },
+   {
+    "id": 23,
+    "title": "Birinci Lem’a",
+    "startPage": 205,
+    "pdfPage": 205,
+    "paragraphCount": 21,
+    "lugatCount": 133
+   },
+   {
+    "id": 24,
+    "title": "On Yedinci Lem’a",
+    "startPage": 209,
+    "pdfPage": 209,
+    "paragraphCount": 41,
+    "lugatCount": 437
+   },
+   {
+    "id": 25,
+    "title": "Yirmi Dördüncü Lem’a",
+    "startPage": 221,
+    "pdfPage": 221,
+    "paragraphCount": 43,
+    "lugatCount": 271
+   },
+   {
+    "id": 26,
+    "title": "Birinci Mektup",
+    "startPage": 229,
+    "pdfPage": 229,
+    "paragraphCount": 27,
+    "lugatCount": 61
+   },
+   {
+    "id": 27,
+    "title": "Dokuzuncu Mektup",
+    "startPage": 231,
+    "pdfPage": 231,
+    "paragraphCount": 31,
+    "lugatCount": 223
+   },
+   {
+    "id": 28,
+    "title": "Yirmi Dokuzuncu Mektup",
+    "startPage": 237,
+    "pdfPage": 237,
+    "paragraphCount": 16,
+    "lugatCount": 147
+   },
+   {
+    "id": 29,
+    "title": "Gençlik Rehberi",
+    "startPage": 241,
+    "pdfPage": 241,
+    "paragraphCount": 23,
+    "lugatCount": 188
+   },
+   {
+    "id": 30,
+    "title": "Meyve Risalesi",
+    "startPage": 247,
+    "pdfPage": 247,
+    "paragraphCount": 146,
+    "lugatCount": 574
+   },
+   {
+    "id": 31,
+    "title": "Elhüccetüzzehra",
+    "startPage": 273,
+    "pdfPage": 273,
+    "paragraphCount": 33,
+    "lugatCount": 157
+   },
+   {
+    "id": 32,
+    "title": "Yirmi Dokuzuncu Lem’a",
+    "startPage": 279,
+    "pdfPage": 279,
+    "paragraphCount": 72,
+    "lugatCount": 322
+   },
+   {
+    "id": 33,
+    "title": "Lemaat",
+    "startPage": 291,
+    "pdfPage": 291,
+    "paragraphCount": 165,
+    "lugatCount": 659
+   },
+   {
+    "id": 34,
+    "title": "Ekler",
+    "startPage": 309,
+    "pdfPage": 309,
+    "paragraphCount": 11,
+    "lugatCount": 0
+   },
+   {
+    "id": 35,
+    "title": "Şahıs Bilgileri",
+    "startPage": 311,
+    "pdfPage": 311,
+    "paragraphCount": 39,
+    "lugatCount": 0
+   },
+   {
+    "id": 36,
+    "title": "Yer Bilgileri",
+    "startPage": 319,
+    "pdfPage": 319,
+    "paragraphCount": 19,
+    "lugatCount": 0
+   }
+  ]
+ },
+ "isaratul-icaz": {
+  "slug": "isaratul-icaz",
+  "bookTitle": "İşaratü’l-i’caz",
+  "pageCount": 587,
+  "wordCount": 95059,
+  "lugatCount": 16470,
+  "sections": [
+   {
+    "id": 1,
+    "title": "Takdim",
+    "startPage": 9,
+    "pdfPage": 5,
+    "paragraphCount": 20,
+    "lugatCount": 0
+   },
+   {
+    "id": 2,
+    "title": "Biyografi",
+    "startPage": 11,
+    "pdfPage": 7,
+    "paragraphCount": 41,
+    "lugatCount": 0
+   },
+   {
+    "id": 3,
+    "title": "Tembih",
+    "startPage": 15,
+    "pdfPage": 11,
+    "paragraphCount": 6,
+    "lugatCount": 45
+   },
+   {
+    "id": 4,
+    "title": "Haşiye",
+    "startPage": 16,
+    "pdfPage": 12,
+    "paragraphCount": 10,
+    "lugatCount": 63
+   },
+   {
+    "id": 5,
+    "title": "İşaratü’l-i’caz Hakkında",
+    "startPage": 18,
+    "pdfPage": 14,
+    "paragraphCount": 8,
+    "lugatCount": 128
+   },
+   {
+    "id": 6,
+    "title": "İfadetü’l-meram",
+    "startPage": 21,
+    "pdfPage": 17,
+    "paragraphCount": 12,
+    "lugatCount": 127
+   },
+   {
+    "id": 7,
+    "title": "Kur’ân’ın Tarifi",
+    "startPage": 24,
+    "pdfPage": 20,
+    "paragraphCount": 76,
+    "lugatCount": 153
+   },
+   {
+    "id": 8,
+    "title": "Fatiha Suresi",
+    "startPage": 28,
+    "pdfPage": 24,
+    "paragraphCount": 185,
+    "lugatCount": 634
+   },
+   {
+    "id": 9,
+    "title": "Kur’ân’daki Tekrarlar",
+    "startPage": 55,
+    "pdfPage": 51,
+    "paragraphCount": 7,
+    "lugatCount": 24
+   },
+   {
+    "id": 10,
+    "title": "Bakara Suresi",
+    "startPage": 56,
+    "pdfPage": 52,
+    "paragraphCount": 4,
+    "lugatCount": 50
+   },
+   {
+    "id": 11,
+    "title": "Huruf-i Mukattaa",
+    "startPage": 57,
+    "pdfPage": 53,
+    "paragraphCount": 8,
+    "lugatCount": 39
+   },
+   {
+    "id": 12,
+    "title": "Bakara Suresi",
+    "startPage": 58,
+    "pdfPage": 54,
+    "paragraphCount": 9,
+    "lugatCount": 36
+   },
+   {
+    "id": 13,
+    "title": "Huruf-i Mukattaa",
+    "startPage": 59,
+    "pdfPage": 55,
+    "paragraphCount": 7,
+    "lugatCount": 44
+   },
+   {
+    "id": 14,
+    "title": "Bakara Suresi",
+    "startPage": 60,
+    "pdfPage": 56,
+    "paragraphCount": 9,
+    "lugatCount": 22
+   },
+   {
+    "id": 15,
+    "title": "Huruf-i Mukattaa",
+    "startPage": 61,
+    "pdfPage": 57,
+    "paragraphCount": 7,
+    "lugatCount": 30
+   },
+   {
+    "id": 16,
+    "title": "Bakara Suresi",
+    "startPage": 62,
+    "pdfPage": 58,
+    "paragraphCount": 6,
+    "lugatCount": 39
+   },
+   {
+    "id": 17,
+    "title": "Kur’ân’ın Yüceli⁄i",
+    "startPage": 63,
+    "pdfPage": 59,
+    "paragraphCount": 9,
+    "lugatCount": 22
+   },
+   {
+    "id": 18,
+    "title": "Bakara Suresi",
+    "startPage": 64,
+    "pdfPage": 60,
+    "paragraphCount": 9,
+    "lugatCount": 19
+   },
+   {
+    "id": 19,
+    "title": "Kur’ân’ın Yüceli⁄i",
+    "startPage": 65,
+    "pdfPage": 61,
+    "paragraphCount": 7,
+    "lugatCount": 48
+   },
+   {
+    "id": 20,
+    "title": "Bakara Suresi",
+    "startPage": 66,
+    "pdfPage": 62,
+    "paragraphCount": 8,
+    "lugatCount": 35
+   },
+   {
+    "id": 21,
+    "title": "Kur’ân’ın Yüceli⁄i",
+    "startPage": 67,
+    "pdfPage": 63,
+    "paragraphCount": 7,
+    "lugatCount": 33
+   },
+   {
+    "id": 22,
+    "title": "Bakara Suresi",
+    "startPage": 68,
+    "pdfPage": 64,
+    "paragraphCount": 6,
+    "lugatCount": 42
+   },
+   {
+    "id": 23,
+    "title": "Kur’ân’ın Yüceli⁄i",
+    "startPage": 69,
+    "pdfPage": 65,
+    "paragraphCount": 5,
+    "lugatCount": 40
+   },
+   {
+    "id": 24,
+    "title": "Bakara Suresi",
+    "startPage": 70,
+    "pdfPage": 66,
+    "paragraphCount": 3,
+    "lugatCount": 56
+   },
+   {
+    "id": 25,
+    "title": "İman",
+    "startPage": 71,
+    "pdfPage": 67,
+    "paragraphCount": 9,
+    "lugatCount": 25
+   },
+   {
+    "id": 26,
+    "title": "Bakara Suresi",
+    "startPage": 72,
+    "pdfPage": 68,
+    "paragraphCount": 10,
+    "lugatCount": 29
+   },
+   {
+    "id": 27,
+    "title": "İman",
+    "startPage": 73,
+    "pdfPage": 69,
+    "paragraphCount": 8,
+    "lugatCount": 54
+   },
+   {
+    "id": 28,
+    "title": "Bakara Suresi",
+    "startPage": 74,
+    "pdfPage": 70,
+    "paragraphCount": 6,
+    "lugatCount": 33
+   },
+   {
+    "id": 29,
+    "title": "Namaz",
+    "startPage": 75,
+    "pdfPage": 71,
+    "paragraphCount": 7,
+    "lugatCount": 51
+   },
+   {
+    "id": 30,
+    "title": "Bakara Suresi",
+    "startPage": 76,
+    "pdfPage": 72,
+    "paragraphCount": 9,
+    "lugatCount": 51
+   },
+   {
+    "id": 31,
+    "title": "Zekât Ve Sadaka",
+    "startPage": 77,
+    "pdfPage": 73,
+    "paragraphCount": 16,
+    "lugatCount": 23
+   },
+   {
+    "id": 32,
+    "title": "Bakara Suresi",
+    "startPage": 78,
+    "pdfPage": 74,
+    "paragraphCount": 11,
+    "lugatCount": 39
+   },
+   {
+    "id": 33,
+    "title": "Zekât Ve Sadaka",
+    "startPage": 79,
+    "pdfPage": 75,
+    "paragraphCount": 10,
+    "lugatCount": 43
+   },
+   {
+    "id": 34,
+    "title": "Bakara Suresi",
+    "startPage": 80,
+    "pdfPage": 76,
+    "paragraphCount": 6,
+    "lugatCount": 44
+   },
+   {
+    "id": 35,
+    "title": "İman Ve Mü‘minler",
+    "startPage": 81,
+    "pdfPage": 77,
+    "paragraphCount": 7,
+    "lugatCount": 41
+   },
+   {
+    "id": 36,
+    "title": "Bakara Suresi",
+    "startPage": 82,
+    "pdfPage": 78,
+    "paragraphCount": 5,
+    "lugatCount": 38
+   },
+   {
+    "id": 37,
+    "title": "İman Ve Mü‘minler",
+    "startPage": 83,
+    "pdfPage": 79,
+    "paragraphCount": 6,
+    "lugatCount": 38
+   },
+   {
+    "id": 38,
+    "title": "Bakara Suresi",
+    "startPage": 84,
+    "pdfPage": 80,
+    "paragraphCount": 7,
+    "lugatCount": 31
+   },
+   {
+    "id": 39,
+    "title": "İman Ve Mü‘minler",
+    "startPage": 85,
+    "pdfPage": 81,
+    "paragraphCount": 4,
+    "lugatCount": 51
+   },
+   {
+    "id": 40,
+    "title": "Bakara Suresi",
+    "startPage": 86,
+    "pdfPage": 82,
+    "paragraphCount": 10,
+    "lugatCount": 24
+   },
+   {
+    "id": 41,
+    "title": "İman Ve Mü‘minler",
+    "startPage": 87,
+    "pdfPage": 83,
+    "paragraphCount": 8,
+    "lugatCount": 35
+   },
+   {
+    "id": 42,
+    "title": "Bakara Suresi",
+    "startPage": 88,
+    "pdfPage": 84,
+    "paragraphCount": 5,
+    "lugatCount": 55
+   },
+   {
+    "id": 43,
+    "title": "Haşir Ve Ahiretin İspatı",
+    "startPage": 89,
+    "pdfPage": 85,
+    "paragraphCount": 13,
+    "lugatCount": 45
+   },
+   {
+    "id": 44,
+    "title": "Bakara Suresi",
+    "startPage": 90,
+    "pdfPage": 86,
+    "paragraphCount": 10,
+    "lugatCount": 38
+   },
+   {
+    "id": 45,
+    "title": "Haşir Ve Ahiretin İspatı",
+    "startPage": 91,
+    "pdfPage": 87,
+    "paragraphCount": 4,
+    "lugatCount": 56
+   },
+   {
+    "id": 46,
+    "title": "Bakara Suresi",
+    "startPage": 92,
+    "pdfPage": 88,
+    "paragraphCount": 4,
+    "lugatCount": 44
+   },
+   {
+    "id": 47,
+    "title": "Haşir Ve Ahiretin İspatı",
+    "startPage": 93,
+    "pdfPage": 89,
+    "paragraphCount": 4,
+    "lugatCount": 41
+   },
+   {
+    "id": 48,
+    "title": "Bakara Suresi",
+    "startPage": 94,
+    "pdfPage": 90,
+    "paragraphCount": 8,
+    "lugatCount": 32
+   },
+   {
+    "id": 49,
+    "title": "Haşir Ve Ahiretin İspatı",
+    "startPage": 95,
+    "pdfPage": 91,
+    "paragraphCount": 5,
+    "lugatCount": 48
+   },
+   {
+    "id": 50,
+    "title": "Bakara Suresi",
+    "startPage": 96,
+    "pdfPage": 92,
+    "paragraphCount": 10,
+    "lugatCount": 30
+   },
+   {
+    "id": 51,
+    "title": "Haşir Ve Ahiretin İspatı",
+    "startPage": 97,
+    "pdfPage": 93,
+    "paragraphCount": 5,
+    "lugatCount": 46
+   },
+   {
+    "id": 52,
+    "title": "Bakara Suresi",
+    "startPage": 98,
+    "pdfPage": 94,
+    "paragraphCount": 4,
+    "lugatCount": 47
+   },
+   {
+    "id": 53,
+    "title": "Haşir Ve Ahiretin İspatı",
+    "startPage": 99,
+    "pdfPage": 95,
+    "paragraphCount": 8,
+    "lugatCount": 51
+   },
+   {
+    "id": 54,
+    "title": "Bakara Suresi",
+    "startPage": 100,
+    "pdfPage": 96,
+    "paragraphCount": 6,
+    "lugatCount": 36
+   },
+   {
+    "id": 55,
+    "title": "Hidayet Nimeti",
+    "startPage": 101,
+    "pdfPage": 97,
+    "paragraphCount": 12,
+    "lugatCount": 19
+   },
+   {
+    "id": 56,
+    "title": "Bakara Suresi",
+    "startPage": 102,
+    "pdfPage": 98,
+    "paragraphCount": 5,
+    "lugatCount": 42
+   },
+   {
+    "id": 57,
+    "title": "Hidayet Nimeti",
+    "startPage": 103,
+    "pdfPage": 99,
+    "paragraphCount": 5,
+    "lugatCount": 33
+   },
+   {
+    "id": 58,
+    "title": "Bakara Suresi",
+    "startPage": 104,
+    "pdfPage": 100,
+    "paragraphCount": 5,
+    "lugatCount": 38
+   },
+   {
+    "id": 59,
+    "title": "Kurtuluşa Erenler",
+    "startPage": 105,
+    "pdfPage": 101,
+    "paragraphCount": 9,
+    "lugatCount": 24
+   },
+   {
+    "id": 60,
+    "title": "Bakara Suresi",
+    "startPage": 106,
+    "pdfPage": 102,
+    "paragraphCount": 4,
+    "lugatCount": 38
+   },
+   {
+    "id": 61,
+    "title": "Kurtuluşa Erenler",
+    "startPage": 107,
+    "pdfPage": 103,
+    "paragraphCount": 5,
+    "lugatCount": 28
+   },
+   {
+    "id": 62,
+    "title": "Bakara Suresi",
+    "startPage": 108,
+    "pdfPage": 104,
+    "paragraphCount": 11,
+    "lugatCount": 41
+   },
+   {
+    "id": 63,
+    "title": "Küfrün Mahiyeti",
+    "startPage": 109,
+    "pdfPage": 105,
+    "paragraphCount": 9,
+    "lugatCount": 43
+   },
+   {
+    "id": 64,
+    "title": "Bakara Suresi",
+    "startPage": 110,
+    "pdfPage": 106,
+    "paragraphCount": 5,
+    "lugatCount": 45
+   },
+   {
+    "id": 65,
+    "title": "Küfrün Mahiyeti",
+    "startPage": 111,
+    "pdfPage": 107,
+    "paragraphCount": 5,
+    "lugatCount": 39
+   },
+   {
+    "id": 66,
+    "title": "Bakara Suresi",
+    "startPage": 112,
+    "pdfPage": 108,
+    "paragraphCount": 15,
+    "lugatCount": 30
+   },
+   {
+    "id": 67,
+    "title": "Küfrün Mahiyeti",
+    "startPage": 113,
+    "pdfPage": 109,
+    "paragraphCount": 7,
+    "lugatCount": 34
+   },
+   {
+    "id": 68,
+    "title": "Bakara Suresi",
+    "startPage": 114,
+    "pdfPage": 110,
+    "paragraphCount": 6,
+    "lugatCount": 30
+   },
+   {
+    "id": 69,
+    "title": "Küfrün Mahiyeti",
+    "startPage": 115,
+    "pdfPage": 111,
+    "paragraphCount": 7,
+    "lugatCount": 33
+   },
+   {
+    "id": 70,
+    "title": "Bakara Suresi",
+    "startPage": 116,
+    "pdfPage": 112,
+    "paragraphCount": 7,
+    "lugatCount": 35
+   },
+   {
+    "id": 71,
+    "title": "Küfrün Mahiyeti",
+    "startPage": 117,
+    "pdfPage": 113,
+    "paragraphCount": 6,
+    "lugatCount": 50
+   },
+   {
+    "id": 72,
+    "title": "Bakara Suresi",
+    "startPage": 118,
+    "pdfPage": 114,
+    "paragraphCount": 4,
+    "lugatCount": 51
+   },
+   {
+    "id": 73,
+    "title": "Küfrün Mahiyeti",
+    "startPage": 119,
+    "pdfPage": 115,
+    "paragraphCount": 6,
+    "lugatCount": 49
+   },
+   {
+    "id": 74,
+    "title": "Bakara Suresi",
+    "startPage": 120,
+    "pdfPage": 116,
+    "paragraphCount": 8,
+    "lugatCount": 35
+   },
+   {
+    "id": 75,
+    "title": "Kalplerin Mühürlenmesi",
+    "startPage": 121,
+    "pdfPage": 117,
+    "paragraphCount": 5,
+    "lugatCount": 52
+   },
+   {
+    "id": 76,
+    "title": "Bakara Suresi",
+    "startPage": 122,
+    "pdfPage": 118,
+    "paragraphCount": 6,
+    "lugatCount": 39
+   },
+   {
+    "id": 77,
+    "title": "Kalplerin Mühürlenmesi",
+    "startPage": 123,
+    "pdfPage": 119,
+    "paragraphCount": 7,
+    "lugatCount": 50
+   },
+   {
+    "id": 78,
+    "title": "Bakara Suresi",
+    "startPage": 124,
+    "pdfPage": 120,
+    "paragraphCount": 8,
+    "lugatCount": 36
+   },
+   {
+    "id": 79,
+    "title": "Kalplerin Mühürlenmesi",
+    "startPage": 125,
+    "pdfPage": 121,
+    "paragraphCount": 11,
+    "lugatCount": 39
+   },
+   {
+    "id": 80,
+    "title": "Bakara Suresi",
+    "startPage": 126,
+    "pdfPage": 122,
+    "paragraphCount": 4,
+    "lugatCount": 54
+   },
+   {
+    "id": 81,
+    "title": "Kalplerin Mühürlenmesi",
+    "startPage": 127,
+    "pdfPage": 123,
+    "paragraphCount": 5,
+    "lugatCount": 43
+   },
+   {
+    "id": 82,
+    "title": "Bakara Suresi",
+    "startPage": 128,
+    "pdfPage": 124,
+    "paragraphCount": 9,
+    "lugatCount": 46
+   },
+   {
+    "id": 83,
+    "title": "Kalplerin Mühürlenmesi",
+    "startPage": 129,
+    "pdfPage": 125,
+    "paragraphCount": 6,
+    "lugatCount": 48
+   },
+   {
+    "id": 84,
+    "title": "Bakara Suresi",
+    "startPage": 130,
+    "pdfPage": 126,
+    "paragraphCount": 20,
+    "lugatCount": 42
+   },
+   {
+    "id": 85,
+    "title": "Kalplerin Mühürlenmesi",
+    "startPage": 131,
+    "pdfPage": 127,
+    "paragraphCount": 6,
+    "lugatCount": 35
+   },
+   {
+    "id": 86,
+    "title": "Bakara Suresi",
+    "startPage": 132,
+    "pdfPage": 128,
+    "paragraphCount": 8,
+    "lugatCount": 29
+   },
+   {
+    "id": 87,
+    "title": "Kalplerin Mühürlenmesi",
+    "startPage": 133,
+    "pdfPage": 129,
+    "paragraphCount": 4,
+    "lugatCount": 41
+   },
+   {
+    "id": 88,
+    "title": "Bakara Suresi",
+    "startPage": 134,
+    "pdfPage": 130,
+    "paragraphCount": 8,
+    "lugatCount": 38
+   },
+   {
+    "id": 89,
+    "title": "Kalplerin Mühürlenmesi",
+    "startPage": 135,
+    "pdfPage": 131,
+    "paragraphCount": 4,
+    "lugatCount": 49
+   },
+   {
+    "id": 90,
+    "title": "Bakara Suresi",
+    "startPage": 136,
+    "pdfPage": 132,
+    "paragraphCount": 6,
+    "lugatCount": 49
+   },
+   {
+    "id": 91,
+    "title": "Münafıklar Bahsi",
+    "startPage": 137,
+    "pdfPage": 133,
+    "paragraphCount": 6,
+    "lugatCount": 52
+   },
+   {
+    "id": 92,
+    "title": "Bakara Suresi",
+    "startPage": 138,
+    "pdfPage": 134,
+    "paragraphCount": 8,
+    "lugatCount": 43
+   },
+   {
+    "id": 93,
+    "title": "Münafıklar Bahsi",
+    "startPage": 139,
+    "pdfPage": 135,
+    "paragraphCount": 7,
+    "lugatCount": 47
+   },
+   {
+    "id": 94,
+    "title": "Bakara Suresi",
+    "startPage": 140,
+    "pdfPage": 136,
+    "paragraphCount": 5,
+    "lugatCount": 36
+   },
+   {
+    "id": 95,
+    "title": "Münafıklar Bahsi",
+    "startPage": 141,
+    "pdfPage": 137,
+    "paragraphCount": 7,
+    "lugatCount": 34
+   },
+   {
+    "id": 96,
+    "title": "Bakara Suresi",
+    "startPage": 142,
+    "pdfPage": 138,
+    "paragraphCount": 8,
+    "lugatCount": 24
+   },
+   {
+    "id": 97,
+    "title": "Münafıklar Bahsi",
+    "startPage": 143,
+    "pdfPage": 139,
+    "paragraphCount": 8,
+    "lugatCount": 34
+   },
+   {
+    "id": 98,
+    "title": "Bakara Suresi",
+    "startPage": 144,
+    "pdfPage": 140,
+    "paragraphCount": 7,
+    "lugatCount": 44
+   },
+   {
+    "id": 99,
+    "title": "Münafıklar Bahsi",
+    "startPage": 145,
+    "pdfPage": 141,
+    "paragraphCount": 7,
+    "lugatCount": 34
+   },
+   {
+    "id": 100,
+    "title": "Bakara Suresi",
+    "startPage": 146,
+    "pdfPage": 142,
+    "paragraphCount": 10,
+    "lugatCount": 49
+   },
+   {
+    "id": 101,
+    "title": "Münafıklar Bahsi",
+    "startPage": 147,
+    "pdfPage": 143,
+    "paragraphCount": 7,
+    "lugatCount": 39
+   },
+   {
+    "id": 102,
+    "title": "Bakara Suresi",
+    "startPage": 148,
+    "pdfPage": 144,
+    "paragraphCount": 3,
+    "lugatCount": 38
+   },
+   {
+    "id": 103,
+    "title": "Münafıklar Bahsi",
+    "startPage": 149,
+    "pdfPage": 145,
+    "paragraphCount": 8,
+    "lugatCount": 37
+   },
+   {
+    "id": 104,
+    "title": "Bakara Suresi",
+    "startPage": 150,
+    "pdfPage": 146,
+    "paragraphCount": 9,
+    "lugatCount": 33
+   },
+   {
+    "id": 105,
+    "title": "Münafıklar Bahsi",
+    "startPage": 151,
+    "pdfPage": 147,
+    "paragraphCount": 7,
+    "lugatCount": 34
+   },
+   {
+    "id": 106,
+    "title": "Bakara Suresi",
+    "startPage": 152,
+    "pdfPage": 148,
+    "paragraphCount": 7,
+    "lugatCount": 47
+   },
+   {
+    "id": 107,
+    "title": "Münafıklar Bahsi",
+    "startPage": 153,
+    "pdfPage": 149,
+    "paragraphCount": 6,
+    "lugatCount": 51
+   },
+   {
+    "id": 108,
+    "title": "Bakara Suresi",
+    "startPage": 154,
+    "pdfPage": 150,
+    "paragraphCount": 7,
+    "lugatCount": 37
+   },
+   {
+    "id": 109,
+    "title": "Münafıklar Bahsi",
+    "startPage": 155,
+    "pdfPage": 151,
+    "paragraphCount": 7,
+    "lugatCount": 40
+   },
+   {
+    "id": 110,
+    "title": "Bakara Suresi",
+    "startPage": 156,
+    "pdfPage": 152,
+    "paragraphCount": 8,
+    "lugatCount": 30
+   },
+   {
+    "id": 111,
+    "title": "Münafıklar Bahsi",
+    "startPage": 157,
+    "pdfPage": 153,
+    "paragraphCount": 4,
+    "lugatCount": 33
+   },
+   {
+    "id": 112,
+    "title": "Bakara Suresi",
+    "startPage": 158,
+    "pdfPage": 154,
+    "paragraphCount": 7,
+    "lugatCount": 37
+   },
+   {
+    "id": 113,
+    "title": "Münafıklar Bahsi",
+    "startPage": 159,
+    "pdfPage": 155,
+    "paragraphCount": 7,
+    "lugatCount": 39
+   },
+   {
+    "id": 114,
+    "title": "Bakara Suresi",
+    "startPage": 160,
+    "pdfPage": 156,
+    "paragraphCount": 6,
+    "lugatCount": 16
+   },
+   {
+    "id": 115,
+    "title": "Münafıklar Bahsi",
+    "startPage": 161,
+    "pdfPage": 157,
+    "paragraphCount": 6,
+    "lugatCount": 34
+   },
+   {
+    "id": 116,
+    "title": "Bakara Suresi",
+    "startPage": 162,
+    "pdfPage": 158,
+    "paragraphCount": 7,
+    "lugatCount": 31
+   },
+   {
+    "id": 117,
+    "title": "Münafıklar Bahsi",
+    "startPage": 163,
+    "pdfPage": 159,
+    "paragraphCount": 7,
+    "lugatCount": 34
+   },
+   {
+    "id": 118,
+    "title": "Bakara Suresi",
+    "startPage": 164,
+    "pdfPage": 160,
+    "paragraphCount": 8,
+    "lugatCount": 32
+   },
+   {
+    "id": 119,
+    "title": "Münafıklar Bahsi",
+    "startPage": 165,
+    "pdfPage": 161,
+    "paragraphCount": 7,
+    "lugatCount": 42
+   },
+   {
+    "id": 120,
+    "title": "Bakara Suresi",
+    "startPage": 166,
+    "pdfPage": 162,
+    "paragraphCount": 7,
+    "lugatCount": 42
+   },
+   {
+    "id": 121,
+    "title": "Münafıklar Bahsi",
+    "startPage": 167,
+    "pdfPage": 163,
+    "paragraphCount": 5,
+    "lugatCount": 33
+   },
+   {
+    "id": 122,
+    "title": "Bakara Suresi",
+    "startPage": 168,
+    "pdfPage": 164,
+    "paragraphCount": 12,
+    "lugatCount": 34
+   },
+   {
+    "id": 123,
+    "title": "Münafıklar Bahsi",
+    "startPage": 169,
+    "pdfPage": 165,
+    "paragraphCount": 5,
+    "lugatCount": 40
+   },
+   {
+    "id": 124,
+    "title": "Bakara Suresi",
+    "startPage": 170,
+    "pdfPage": 166,
+    "paragraphCount": 5,
+    "lugatCount": 35
+   },
+   {
+    "id": 125,
+    "title": "Münafıklar Bahsi",
+    "startPage": 171,
+    "pdfPage": 167,
+    "paragraphCount": 8,
+    "lugatCount": 46
+   },
+   {
+    "id": 126,
+    "title": "Bakara Suresi",
+    "startPage": 172,
+    "pdfPage": 168,
+    "paragraphCount": 6,
+    "lugatCount": 38
+   },
+   {
+    "id": 127,
+    "title": "Münafıklar Bahsi",
+    "startPage": 173,
+    "pdfPage": 169,
+    "paragraphCount": 5,
+    "lugatCount": 40
+   },
+   {
+    "id": 128,
+    "title": "Bakara Suresi",
+    "startPage": 174,
+    "pdfPage": 170,
+    "paragraphCount": 9,
+    "lugatCount": 26
+   },
+   {
+    "id": 129,
+    "title": "Münafıklar Bahsi",
+    "startPage": 175,
+    "pdfPage": 171,
+    "paragraphCount": 9,
+    "lugatCount": 24
+   },
+   {
+    "id": 130,
+    "title": "Bakara Suresi",
+    "startPage": 176,
+    "pdfPage": 172,
+    "paragraphCount": 6,
+    "lugatCount": 39
+   },
+   {
+    "id": 131,
+    "title": "Münafıklar Bahsi",
+    "startPage": 177,
+    "pdfPage": 173,
+    "paragraphCount": 7,
+    "lugatCount": 36
+   },
+   {
+    "id": 132,
+    "title": "Bakara Suresi",
+    "startPage": 178,
+    "pdfPage": 174,
+    "paragraphCount": 6,
+    "lugatCount": 29
+   },
+   {
+    "id": 133,
+    "title": "Münafıklar Bahsi",
+    "startPage": 179,
+    "pdfPage": 175,
+    "paragraphCount": 7,
+    "lugatCount": 35
+   },
+   {
+    "id": 134,
+    "title": "Bakara Suresi",
+    "startPage": 180,
+    "pdfPage": 176,
+    "paragraphCount": 6,
+    "lugatCount": 29
+   },
+   {
+    "id": 135,
+    "title": "Münafıklar Bahsi",
+    "startPage": 181,
+    "pdfPage": 177,
+    "paragraphCount": 7,
+    "lugatCount": 28
+   },
+   {
+    "id": 136,
+    "title": "Bakara Suresi",
+    "startPage": 182,
+    "pdfPage": 178,
+    "paragraphCount": 6,
+    "lugatCount": 24
+   },
+   {
+    "id": 137,
+    "title": "Münafıklar Bahsi",
+    "startPage": 183,
+    "pdfPage": 179,
+    "paragraphCount": 9,
+    "lugatCount": 27
+   },
+   {
+    "id": 138,
+    "title": "Bakara Suresi",
+    "startPage": 184,
+    "pdfPage": 180,
+    "paragraphCount": 7,
+    "lugatCount": 45
+   },
+   {
+    "id": 139,
+    "title": "Münafıklar Bahsi",
+    "startPage": 185,
+    "pdfPage": 181,
+    "paragraphCount": 5,
+    "lugatCount": 39
+   },
+   {
+    "id": 140,
+    "title": "Bakara Suresi",
+    "startPage": 186,
+    "pdfPage": 182,
+    "paragraphCount": 6,
+    "lugatCount": 27
+   },
+   {
+    "id": 141,
+    "title": "Münafıklar Bahsi",
+    "startPage": 187,
+    "pdfPage": 183,
+    "paragraphCount": 7,
+    "lugatCount": 26
+   },
+   {
+    "id": 142,
+    "title": "Bakara Suresi",
+    "startPage": 188,
+    "pdfPage": 184,
+    "paragraphCount": 9,
+    "lugatCount": 25
+   },
+   {
+    "id": 143,
+    "title": "Münafıklar Bahsi",
+    "startPage": 189,
+    "pdfPage": 185,
+    "paragraphCount": 5,
+    "lugatCount": 49
+   },
+   {
+    "id": 144,
+    "title": "Bakara Suresi",
+    "startPage": 190,
+    "pdfPage": 186,
+    "paragraphCount": 9,
+    "lugatCount": 28
+   },
+   {
+    "id": 145,
+    "title": "Münafıklar Bahsi",
+    "startPage": 191,
+    "pdfPage": 187,
+    "paragraphCount": 8,
+    "lugatCount": 19
+   },
+   {
+    "id": 146,
+    "title": "Bakara Suresi",
+    "startPage": 192,
+    "pdfPage": 188,
+    "paragraphCount": 9,
+    "lugatCount": 33
+   },
+   {
+    "id": 147,
+    "title": "Münafıklar Bahsi",
+    "startPage": 193,
+    "pdfPage": 189,
+    "paragraphCount": 8,
+    "lugatCount": 29
+   },
+   {
+    "id": 148,
+    "title": "Bakara Suresi",
+    "startPage": 194,
+    "pdfPage": 190,
+    "paragraphCount": 3,
+    "lugatCount": 35
+   },
+   {
+    "id": 149,
+    "title": "Münafıklar Bahsi",
+    "startPage": 195,
+    "pdfPage": 191,
+    "paragraphCount": 4,
+    "lugatCount": 29
+   },
+   {
+    "id": 150,
+    "title": "Bakara Suresi",
+    "startPage": 196,
+    "pdfPage": 192,
+    "paragraphCount": 7,
+    "lugatCount": 22
+   },
+   {
+    "id": 151,
+    "title": "Münafıklar Bahsi",
+    "startPage": 197,
+    "pdfPage": 193,
+    "paragraphCount": 5,
+    "lugatCount": 54
+   },
+   {
+    "id": 152,
+    "title": "Bakara Suresi",
+    "startPage": 198,
+    "pdfPage": 194,
+    "paragraphCount": 9,
+    "lugatCount": 36
+   },
+   {
+    "id": 153,
+    "title": "Münafıklar Bahsi",
+    "startPage": 199,
+    "pdfPage": 195,
+    "paragraphCount": 5,
+    "lugatCount": 30
+   },
+   {
+    "id": 154,
+    "title": "Bakara Suresi",
+    "startPage": 200,
+    "pdfPage": 196,
+    "paragraphCount": 6,
+    "lugatCount": 30
+   },
+   {
+    "id": 155,
+    "title": "Münafıklar Bahsi",
+    "startPage": 201,
+    "pdfPage": 197,
+    "paragraphCount": 6,
+    "lugatCount": 38
+   },
+   {
+    "id": 156,
+    "title": "Bakara Suresi",
+    "startPage": 202,
+    "pdfPage": 198,
+    "paragraphCount": 7,
+    "lugatCount": 22
+   },
+   {
+    "id": 157,
+    "title": "Münafıklar Bahsi",
+    "startPage": 203,
+    "pdfPage": 199,
+    "paragraphCount": 4,
+    "lugatCount": 29
+   },
+   {
+    "id": 158,
+    "title": "Bakara Suresi",
+    "startPage": 204,
+    "pdfPage": 200,
+    "paragraphCount": 6,
+    "lugatCount": 35
+   },
+   {
+    "id": 159,
+    "title": "Münafıklar Bahsi",
+    "startPage": 205,
+    "pdfPage": 201,
+    "paragraphCount": 7,
+    "lugatCount": 41
+   },
+   {
+    "id": 160,
+    "title": "Bakara Suresi",
+    "startPage": 206,
+    "pdfPage": 202,
+    "paragraphCount": 3,
+    "lugatCount": 28
+   },
+   {
+    "id": 161,
+    "title": "Münafıklar Bahsi",
+    "startPage": 207,
+    "pdfPage": 203,
+    "paragraphCount": 9,
+    "lugatCount": 43
+   },
+   {
+    "id": 162,
+    "title": "Bakara Suresi",
+    "startPage": 208,
+    "pdfPage": 204,
+    "paragraphCount": 6,
+    "lugatCount": 33
+   },
+   {
+    "id": 163,
+    "title": "Münafıklar Bahsi",
+    "startPage": 209,
+    "pdfPage": 205,
+    "paragraphCount": 3,
+    "lugatCount": 38
+   },
+   {
+    "id": 164,
+    "title": "Bakara Suresi",
+    "startPage": 210,
+    "pdfPage": 206,
+    "paragraphCount": 5,
+    "lugatCount": 33
+   },
+   {
+    "id": 165,
+    "title": "Münafıklar Bahsi",
+    "startPage": 211,
+    "pdfPage": 207,
+    "paragraphCount": 4,
+    "lugatCount": 48
+   },
+   {
+    "id": 166,
+    "title": "Bakara Suresi",
+    "startPage": 212,
+    "pdfPage": 208,
+    "paragraphCount": 7,
+    "lugatCount": 38
+   },
+   {
+    "id": 167,
+    "title": "Münafıklar Bahsi",
+    "startPage": 213,
+    "pdfPage": 209,
+    "paragraphCount": 7,
+    "lugatCount": 31
+   },
+   {
+    "id": 168,
+    "title": "Bakara Suresi",
+    "startPage": 214,
+    "pdfPage": 210,
+    "paragraphCount": 4,
+    "lugatCount": 31
+   },
+   {
+    "id": 169,
+    "title": "Münafıklar Bahsi",
+    "startPage": 215,
+    "pdfPage": 211,
+    "paragraphCount": 6,
+    "lugatCount": 24
+   },
+   {
+    "id": 170,
+    "title": "Bakara Suresi",
+    "startPage": 216,
+    "pdfPage": 212,
+    "paragraphCount": 4,
+    "lugatCount": 39
+   },
+   {
+    "id": 171,
+    "title": "Münafıklar Bahsi",
+    "startPage": 217,
+    "pdfPage": 213,
+    "paragraphCount": 8,
+    "lugatCount": 25
+   },
+   {
+    "id": 172,
+    "title": "Bakara Suresi",
+    "startPage": 218,
+    "pdfPage": 214,
+    "paragraphCount": 6,
+    "lugatCount": 30
+   },
+   {
+    "id": 173,
+    "title": "Münafıklar Bahsi",
+    "startPage": 219,
+    "pdfPage": 215,
+    "paragraphCount": 7,
+    "lugatCount": 32
+   },
+   {
+    "id": 174,
+    "title": "Bakara Suresi",
+    "startPage": 220,
+    "pdfPage": 216,
+    "paragraphCount": 5,
+    "lugatCount": 30
+   },
+   {
+    "id": 175,
+    "title": "Münafıklar Bahsi",
+    "startPage": 221,
+    "pdfPage": 217,
+    "paragraphCount": 4,
+    "lugatCount": 28
+   },
+   {
+    "id": 176,
+    "title": "Bakara Suresi",
+    "startPage": 222,
+    "pdfPage": 218,
+    "paragraphCount": 6,
+    "lugatCount": 28
+   },
+   {
+    "id": 177,
+    "title": "Münafıklar Bahsi",
+    "startPage": 223,
+    "pdfPage": 219,
+    "paragraphCount": 4,
+    "lugatCount": 48
+   },
+   {
+    "id": 178,
+    "title": "Bakara Suresi",
+    "startPage": 224,
+    "pdfPage": 220,
+    "paragraphCount": 8,
+    "lugatCount": 33
+   },
+   {
+    "id": 179,
+    "title": "Münafıklar Bahsi",
+    "startPage": 225,
+    "pdfPage": 221,
+    "paragraphCount": 4,
+    "lugatCount": 53
+   },
+   {
+    "id": 180,
+    "title": "Bakara Suresi",
+    "startPage": 226,
+    "pdfPage": 222,
+    "paragraphCount": 10,
+    "lugatCount": 28
+   },
+   {
+    "id": 181,
+    "title": "İbadet Ve Tevhid Bahsi",
+    "startPage": 227,
+    "pdfPage": 223,
+    "paragraphCount": 7,
+    "lugatCount": 56
+   },
+   {
+    "id": 182,
+    "title": "Bakara Suresi",
+    "startPage": 228,
+    "pdfPage": 224,
+    "paragraphCount": 5,
+    "lugatCount": 52
+   },
+   {
+    "id": 183,
+    "title": "İbadet Ve Tevhid Bahsi",
+    "startPage": 229,
+    "pdfPage": 225,
+    "paragraphCount": 4,
+    "lugatCount": 54
+   },
+   {
+    "id": 184,
+    "title": "Bakara Suresi",
+    "startPage": 230,
+    "pdfPage": 226,
+    "paragraphCount": 9,
+    "lugatCount": 46
+   },
+   {
+    "id": 185,
+    "title": "İbadet Ve Tevhid Bahsi",
+    "startPage": 231,
+    "pdfPage": 227,
+    "paragraphCount": 5,
+    "lugatCount": 42
+   },
+   {
+    "id": 186,
+    "title": "Bakara Suresi",
+    "startPage": 232,
+    "pdfPage": 228,
+    "paragraphCount": 6,
+    "lugatCount": 40
+   },
+   {
+    "id": 187,
+    "title": "İbadet Ve Tevhid Bahsi",
+    "startPage": 233,
+    "pdfPage": 229,
+    "paragraphCount": 4,
+    "lugatCount": 53
+   },
+   {
+    "id": 188,
+    "title": "Bakara Suresi",
+    "startPage": 234,
+    "pdfPage": 230,
+    "paragraphCount": 7,
+    "lugatCount": 26
+   },
+   {
+    "id": 189,
+    "title": "İbadet Ve Tevhid Bahsi",
+    "startPage": 235,
+    "pdfPage": 231,
+    "paragraphCount": 4,
+    "lugatCount": 56
+   },
+   {
+    "id": 190,
+    "title": "Bakara Suresi",
+    "startPage": 236,
+    "pdfPage": 232,
+    "paragraphCount": 6,
+    "lugatCount": 45
+   },
+   {
+    "id": 191,
+    "title": "İbadet Ve Tevhid Bahsi",
+    "startPage": 237,
+    "pdfPage": 233,
+    "paragraphCount": 5,
+    "lugatCount": 59
+   },
+   {
+    "id": 192,
+    "title": "Bakara Suresi",
+    "startPage": 238,
+    "pdfPage": 234,
+    "paragraphCount": 5,
+    "lugatCount": 60
+   },
+   {
+    "id": 193,
+    "title": "İbadet Ve Tevhid Bahsi",
+    "startPage": 239,
+    "pdfPage": 235,
+    "paragraphCount": 9,
+    "lugatCount": 44
+   },
+   {
+    "id": 194,
+    "title": "Bakara Suresi",
+    "startPage": 240,
+    "pdfPage": 236,
+    "paragraphCount": 5,
+    "lugatCount": 44
+   },
+   {
+    "id": 195,
+    "title": "İbadet Ve Tevhid Bahsi",
+    "startPage": 241,
+    "pdfPage": 237,
+    "paragraphCount": 5,
+    "lugatCount": 40
+   },
+   {
+    "id": 196,
+    "title": "Bakara Suresi",
+    "startPage": 242,
+    "pdfPage": 238,
+    "paragraphCount": 5,
+    "lugatCount": 30
+   },
+   {
+    "id": 197,
+    "title": "İbadet Ve Tevhid Bahsi",
+    "startPage": 243,
+    "pdfPage": 239,
+    "paragraphCount": 9,
+    "lugatCount": 38
+   },
+   {
+    "id": 198,
+    "title": "Bakara Suresi",
+    "startPage": 244,
+    "pdfPage": 240,
+    "paragraphCount": 11,
+    "lugatCount": 32
+   },
+   {
+    "id": 199,
+    "title": "İbadet Ve Tevhid Bahsi",
+    "startPage": 245,
+    "pdfPage": 241,
+    "paragraphCount": 5,
+    "lugatCount": 36
+   },
+   {
+    "id": 200,
+    "title": "Bakara Suresi",
+    "startPage": 246,
+    "pdfPage": 242,
+    "paragraphCount": 7,
+    "lugatCount": 36
+   },
+   {
+    "id": 201,
+    "title": "İbadet Ve Tevhid Bahsi",
+    "startPage": 247,
+    "pdfPage": 243,
+    "paragraphCount": 9,
+    "lugatCount": 24
+   },
+   {
+    "id": 202,
+    "title": "Bakara Suresi",
+    "startPage": 248,
+    "pdfPage": 244,
+    "paragraphCount": 13,
+    "lugatCount": 70
+   },
+   {
+    "id": 203,
+    "title": "İbadet Ve Tevhid Bahsi",
+    "startPage": 251,
+    "pdfPage": 247,
+    "paragraphCount": 9,
+    "lugatCount": 37
+   },
+   {
+    "id": 204,
+    "title": "Bakara Suresi",
+    "startPage": 252,
+    "pdfPage": 248,
+    "paragraphCount": 6,
+    "lugatCount": 36
+   },
+   {
+    "id": 205,
+    "title": "İbadet Ve Tevhid Bahsi",
+    "startPage": 253,
+    "pdfPage": 249,
+    "paragraphCount": 9,
+    "lugatCount": 43
+   },
+   {
+    "id": 206,
+    "title": "Bakara Suresi",
+    "startPage": 254,
+    "pdfPage": 250,
+    "paragraphCount": 4,
+    "lugatCount": 39
+   },
+   {
+    "id": 207,
+    "title": "İbadet Ve Tevhid Bahsi",
+    "startPage": 255,
+    "pdfPage": 251,
+    "paragraphCount": 5,
+    "lugatCount": 34
+   },
+   {
+    "id": 208,
+    "title": "Bakara Suresi",
+    "startPage": 256,
+    "pdfPage": 252,
+    "paragraphCount": 5,
+    "lugatCount": 33
+   },
+   {
+    "id": 209,
+    "title": "İbadet Ve Tevhid Bahsi",
+    "startPage": 257,
+    "pdfPage": 253,
+    "paragraphCount": 4,
+    "lugatCount": 36
+   },
+   {
+    "id": 210,
+    "title": "Bakara Suresi",
+    "startPage": 258,
+    "pdfPage": 254,
+    "paragraphCount": 6,
+    "lugatCount": 29
+   },
+   {
+    "id": 211,
+    "title": "İbadet Ve Tevhid Bahsi",
+    "startPage": 259,
+    "pdfPage": 255,
+    "paragraphCount": 8,
+    "lugatCount": 28
+   },
+   {
+    "id": 212,
+    "title": "Bakara Suresi",
+    "startPage": 260,
+    "pdfPage": 256,
+    "paragraphCount": 7,
+    "lugatCount": 40
+   },
+   {
+    "id": 213,
+    "title": "Nübüvvet Hakkında",
+    "startPage": 261,
+    "pdfPage": 257,
+    "paragraphCount": 5,
+    "lugatCount": 19
+   },
+   {
+    "id": 214,
+    "title": "Bakara Suresi",
+    "startPage": 262,
+    "pdfPage": 258,
+    "paragraphCount": 5,
+    "lugatCount": 50
+   },
+   {
+    "id": 215,
+    "title": "Nübüvvet Hakkında",
+    "startPage": 263,
+    "pdfPage": 259,
+    "paragraphCount": 9,
+    "lugatCount": 43
+   },
+   {
+    "id": 216,
+    "title": "Bakara Suresi",
+    "startPage": 264,
+    "pdfPage": 260,
+    "paragraphCount": 6,
+    "lugatCount": 35
+   },
+   {
+    "id": 217,
+    "title": "Nübüvvet Hakkında",
+    "startPage": 265,
+    "pdfPage": 261,
+    "paragraphCount": 5,
+    "lugatCount": 39
+   },
+   {
+    "id": 218,
+    "title": "Bakara Suresi",
+    "startPage": 266,
+    "pdfPage": 262,
+    "paragraphCount": 5,
+    "lugatCount": 41
+   },
+   {
+    "id": 219,
+    "title": "Nübüvvet Hakkında",
+    "startPage": 267,
+    "pdfPage": 263,
+    "paragraphCount": 4,
+    "lugatCount": 51
+   },
+   {
+    "id": 220,
+    "title": "Bakara Suresi",
+    "startPage": 268,
+    "pdfPage": 264,
+    "paragraphCount": 6,
+    "lugatCount": 53
+   },
+   {
+    "id": 221,
+    "title": "Nübüvvet Hakkında",
+    "startPage": 269,
+    "pdfPage": 265,
+    "paragraphCount": 4,
+    "lugatCount": 49
+   },
+   {
+    "id": 222,
+    "title": "Bakara Suresi",
+    "startPage": 270,
+    "pdfPage": 266,
+    "paragraphCount": 6,
+    "lugatCount": 45
+   },
+   {
+    "id": 223,
+    "title": "Nübüvvet Hakkında",
+    "startPage": 271,
+    "pdfPage": 267,
+    "paragraphCount": 6,
+    "lugatCount": 52
+   },
+   {
+    "id": 224,
+    "title": "Bakara Suresi",
+    "startPage": 272,
+    "pdfPage": 268,
+    "paragraphCount": 5,
+    "lugatCount": 41
+   },
+   {
+    "id": 225,
+    "title": "Nübüvvet Hakkında",
+    "startPage": 273,
+    "pdfPage": 269,
+    "paragraphCount": 3,
+    "lugatCount": 58
+   },
+   {
+    "id": 226,
+    "title": "Bakara Suresi",
+    "startPage": 274,
+    "pdfPage": 270,
+    "paragraphCount": 6,
+    "lugatCount": 49
+   },
+   {
+    "id": 227,
+    "title": "Nübüvvet Hakkında",
+    "startPage": 275,
+    "pdfPage": 271,
+    "paragraphCount": 4,
+    "lugatCount": 43
+   },
+   {
+    "id": 228,
+    "title": "Bakara Suresi",
+    "startPage": 276,
+    "pdfPage": 272,
+    "paragraphCount": 11,
+    "lugatCount": 41
+   },
+   {
+    "id": 229,
+    "title": "Nübüvvet Hakkında",
+    "startPage": 277,
+    "pdfPage": 273,
+    "paragraphCount": 6,
+    "lugatCount": 46
+   },
+   {
+    "id": 230,
+    "title": "Bakara Suresi",
+    "startPage": 278,
+    "pdfPage": 274,
+    "paragraphCount": 8,
+    "lugatCount": 34
+   },
+   {
+    "id": 231,
+    "title": "Nübüvvet Hakkında",
+    "startPage": 279,
+    "pdfPage": 275,
+    "paragraphCount": 8,
+    "lugatCount": 43
+   },
+   {
+    "id": 232,
+    "title": "Bakara Suresi",
+    "startPage": 280,
+    "pdfPage": 276,
+    "paragraphCount": 5,
+    "lugatCount": 51
+   },
+   {
+    "id": 233,
+    "title": "Nübüvvet Hakkında",
+    "startPage": 281,
+    "pdfPage": 277,
+    "paragraphCount": 5,
+    "lugatCount": 46
+   },
+   {
+    "id": 234,
+    "title": "Bakara Suresi",
+    "startPage": 282,
+    "pdfPage": 278,
+    "paragraphCount": 8,
+    "lugatCount": 54
+   },
+   {
+    "id": 235,
+    "title": "Nübüvvet Hakkında",
+    "startPage": 283,
+    "pdfPage": 279,
+    "paragraphCount": 4,
+    "lugatCount": 40
+   },
+   {
+    "id": 236,
+    "title": "Bakara Suresi",
+    "startPage": 284,
+    "pdfPage": 280,
+    "paragraphCount": 4,
+    "lugatCount": 48
+   },
+   {
+    "id": 237,
+    "title": "Nübüvvet Hakkında",
+    "startPage": 285,
+    "pdfPage": 281,
+    "paragraphCount": 2,
+    "lugatCount": 60
+   },
+   {
+    "id": 238,
+    "title": "Bakara Suresi",
+    "startPage": 286,
+    "pdfPage": 282,
+    "paragraphCount": 6,
+    "lugatCount": 49
+   },
+   {
+    "id": 239,
+    "title": "Nübüvvet Hakkında",
+    "startPage": 287,
+    "pdfPage": 283,
+    "paragraphCount": 4,
+    "lugatCount": 46
+   },
+   {
+    "id": 240,
+    "title": "Bakara Suresi",
+    "startPage": 288,
+    "pdfPage": 284,
+    "paragraphCount": 15,
+    "lugatCount": 39
+   },
+   {
+    "id": 241,
+    "title": "Nübüvvet Hakkında",
+    "startPage": 289,
+    "pdfPage": 285,
+    "paragraphCount": 9,
+    "lugatCount": 35
+   },
+   {
+    "id": 242,
+    "title": "Bakara Suresi",
+    "startPage": 290,
+    "pdfPage": 286,
+    "paragraphCount": 9,
+    "lugatCount": 51
+   },
+   {
+    "id": 243,
+    "title": "Nübüvvet Hakkında",
+    "startPage": 291,
+    "pdfPage": 287,
+    "paragraphCount": 4,
+    "lugatCount": 48
+   },
+   {
+    "id": 244,
+    "title": "Bakara Suresi",
+    "startPage": 292,
+    "pdfPage": 288,
+    "paragraphCount": 4,
+    "lugatCount": 47
+   },
+   {
+    "id": 245,
+    "title": "Nübüvvet Hakkında",
+    "startPage": 293,
+    "pdfPage": 289,
+    "paragraphCount": 6,
+    "lugatCount": 29
+   },
+   {
+    "id": 246,
+    "title": "Bakara Suresi",
+    "startPage": 294,
+    "pdfPage": 290,
+    "paragraphCount": 10,
+    "lugatCount": 22
+   },
+   {
+    "id": 247,
+    "title": "Nübüvvet Hakkında",
+    "startPage": 295,
+    "pdfPage": 291,
+    "paragraphCount": 5,
+    "lugatCount": 33
+   },
+   {
+    "id": 248,
+    "title": "Bakara Suresi",
+    "startPage": 296,
+    "pdfPage": 292,
+    "paragraphCount": 6,
+    "lugatCount": 34
+   },
+   {
+    "id": 249,
+    "title": "Nübüvvet Hakkında",
+    "startPage": 297,
+    "pdfPage": 293,
+    "paragraphCount": 5,
+    "lugatCount": 31
+   },
+   {
+    "id": 250,
+    "title": "Bakara Suresi",
+    "startPage": 298,
+    "pdfPage": 294,
+    "paragraphCount": 10,
+    "lugatCount": 31
+   },
+   {
+    "id": 251,
+    "title": "Nübüvvet Hakkında",
+    "startPage": 299,
+    "pdfPage": 295,
+    "paragraphCount": 10,
+    "lugatCount": 24
+   },
+   {
+    "id": 252,
+    "title": "Bakara Suresi",
+    "startPage": 300,
+    "pdfPage": 296,
+    "paragraphCount": 6,
+    "lugatCount": 31
+   },
+   {
+    "id": 253,
+    "title": "Nübüvvet Hakkında",
+    "startPage": 301,
+    "pdfPage": 297,
+    "paragraphCount": 5,
+    "lugatCount": 40
+   },
+   {
+    "id": 254,
+    "title": "Bakara Suresi",
+    "startPage": 302,
+    "pdfPage": 298,
+    "paragraphCount": 5,
+    "lugatCount": 36
+   },
+   {
+    "id": 255,
+    "title": "Nübüvvet Hakkında",
+    "startPage": 303,
+    "pdfPage": 299,
+    "paragraphCount": 7,
+    "lugatCount": 32
+   },
+   {
+    "id": 256,
+    "title": "Bakara Suresi",
+    "startPage": 304,
+    "pdfPage": 300,
+    "paragraphCount": 7,
+    "lugatCount": 32
+   },
+   {
+    "id": 257,
+    "title": "Nübüvvet Hakkında",
+    "startPage": 305,
+    "pdfPage": 301,
+    "paragraphCount": 5,
+    "lugatCount": 43
+   },
+   {
+    "id": 258,
+    "title": "Bakara Suresi",
+    "startPage": 306,
+    "pdfPage": 302,
+    "paragraphCount": 9,
+    "lugatCount": 29
+   },
+   {
+    "id": 259,
+    "title": "Nübüvvet Hakkında",
+    "startPage": 307,
+    "pdfPage": 303,
+    "paragraphCount": 7,
+    "lugatCount": 36
+   },
+   {
+    "id": 260,
+    "title": "Bakara Suresi",
+    "startPage": 308,
+    "pdfPage": 304,
+    "paragraphCount": 6,
+    "lugatCount": 36
+   },
+   {
+    "id": 261,
+    "title": "Nübüvvet Hakkında",
+    "startPage": 309,
+    "pdfPage": 305,
+    "paragraphCount": 6,
+    "lugatCount": 30
+   },
+   {
+    "id": 262,
+    "title": "Bakara Suresi",
+    "startPage": 310,
+    "pdfPage": 306,
+    "paragraphCount": 6,
+    "lugatCount": 28
+   },
+   {
+    "id": 263,
+    "title": "Nübüvvet Hakkında",
+    "startPage": 311,
+    "pdfPage": 307,
+    "paragraphCount": 7,
+    "lugatCount": 34
+   },
+   {
+    "id": 264,
+    "title": "Bakara Suresi",
+    "startPage": 312,
+    "pdfPage": 308,
+    "paragraphCount": 12,
+    "lugatCount": 29
+   },
+   {
+    "id": 265,
+    "title": "Nübüvvet Hakkında",
+    "startPage": 313,
+    "pdfPage": 309,
+    "paragraphCount": 4,
+    "lugatCount": 27
+   },
+   {
+    "id": 266,
+    "title": "Bakara Suresi",
+    "startPage": 314,
+    "pdfPage": 310,
+    "paragraphCount": 6,
+    "lugatCount": 40
+   },
+   {
+    "id": 267,
+    "title": "Nübüvvet Hakkında",
+    "startPage": 315,
+    "pdfPage": 311,
+    "paragraphCount": 8,
+    "lugatCount": 33
+   },
+   {
+    "id": 268,
+    "title": "Bakara Suresi",
+    "startPage": 316,
+    "pdfPage": 312,
+    "paragraphCount": 8,
+    "lugatCount": 20
+   },
+   {
+    "id": 269,
+    "title": "Ahirete İman",
+    "startPage": 317,
+    "pdfPage": 313,
+    "paragraphCount": 14,
+    "lugatCount": 18
+   },
+   {
+    "id": 270,
+    "title": "Bakara Suresi",
+    "startPage": 318,
+    "pdfPage": 314,
+    "paragraphCount": 8,
+    "lugatCount": 47
+   },
+   {
+    "id": 271,
+    "title": "Ahirete İman",
+    "startPage": 319,
+    "pdfPage": 315,
+    "paragraphCount": 6,
+    "lugatCount": 44
+   },
+   {
+    "id": 272,
+    "title": "Bakara Suresi",
+    "startPage": 320,
+    "pdfPage": 316,
+    "paragraphCount": 12,
+    "lugatCount": 33
+   },
+   {
+    "id": 273,
+    "title": "Ahirete İman",
+    "startPage": 321,
+    "pdfPage": 317,
+    "paragraphCount": 7,
+    "lugatCount": 44
+   },
+   {
+    "id": 274,
+    "title": "Bakara Suresi",
+    "startPage": 322,
+    "pdfPage": 318,
+    "paragraphCount": 6,
+    "lugatCount": 37
+   },
+   {
+    "id": 275,
+    "title": "Ahirete İman",
+    "startPage": 323,
+    "pdfPage": 319,
+    "paragraphCount": 3,
+    "lugatCount": 53
+   },
+   {
+    "id": 276,
+    "title": "Bakara Suresi",
+    "startPage": 324,
+    "pdfPage": 320,
+    "paragraphCount": 8,
+    "lugatCount": 39
+   },
+   {
+    "id": 277,
+    "title": "Ahirete İman",
+    "startPage": 325,
+    "pdfPage": 321,
+    "paragraphCount": 11,
+    "lugatCount": 52
+   },
+   {
+    "id": 278,
+    "title": "Bakara Suresi",
+    "startPage": 326,
+    "pdfPage": 322,
+    "paragraphCount": 5,
+    "lugatCount": 48
+   },
+   {
+    "id": 279,
+    "title": "Ahirete İman",
+    "startPage": 327,
+    "pdfPage": 323,
+    "paragraphCount": 5,
+    "lugatCount": 24
+   },
+   {
+    "id": 280,
+    "title": "Bakara Suresi",
+    "startPage": 328,
+    "pdfPage": 324,
+    "paragraphCount": 10,
+    "lugatCount": 37
+   },
+   {
+    "id": 281,
+    "title": "Ahirete İman",
+    "startPage": 329,
+    "pdfPage": 325,
+    "paragraphCount": 7,
+    "lugatCount": 39
+   },
+   {
+    "id": 282,
+    "title": "Bakara Suresi",
+    "startPage": 330,
+    "pdfPage": 326,
+    "paragraphCount": 6,
+    "lugatCount": 37
+   },
+   {
+    "id": 283,
+    "title": "Ahirete İman",
+    "startPage": 331,
+    "pdfPage": 327,
+    "paragraphCount": 7,
+    "lugatCount": 35
+   },
+   {
+    "id": 284,
+    "title": "Bakara Suresi",
+    "startPage": 332,
+    "pdfPage": 328,
+    "paragraphCount": 7,
+    "lugatCount": 33
+   },
+   {
+    "id": 285,
+    "title": "Ahirete İman",
+    "startPage": 333,
+    "pdfPage": 329,
+    "paragraphCount": 9,
+    "lugatCount": 26
+   },
+   {
+    "id": 286,
+    "title": "Bakara Suresi",
+    "startPage": 334,
+    "pdfPage": 330,
+    "paragraphCount": 7,
+    "lugatCount": 38
+   },
+   {
+    "id": 287,
+    "title": "Ahirete İman",
+    "startPage": 335,
+    "pdfPage": 331,
+    "paragraphCount": 6,
+    "lugatCount": 32
+   },
+   {
+    "id": 288,
+    "title": "Bakara Suresi",
+    "startPage": 336,
+    "pdfPage": 332,
+    "paragraphCount": 6,
+    "lugatCount": 21
+   },
+   {
+    "id": 289,
+    "title": "Ahirete İman",
+    "startPage": 337,
+    "pdfPage": 333,
+    "paragraphCount": 9,
+    "lugatCount": 29
+   },
+   {
+    "id": 290,
+    "title": "Bakara Suresi",
+    "startPage": 338,
+    "pdfPage": 334,
+    "paragraphCount": 6,
+    "lugatCount": 29
+   },
+   {
+    "id": 291,
+    "title": "Ahirete İman",
+    "startPage": 339,
+    "pdfPage": 335,
+    "paragraphCount": 6,
+    "lugatCount": 33
+   },
+   {
+    "id": 292,
+    "title": "Bakara Suresi",
+    "startPage": 340,
+    "pdfPage": 336,
+    "paragraphCount": 5,
+    "lugatCount": 22
+   },
+   {
+    "id": 293,
+    "title": "Kur’ân’ın İfadesindeki İ’caz",
+    "startPage": 341,
+    "pdfPage": 337,
+    "paragraphCount": 6,
+    "lugatCount": 46
+   },
+   {
+    "id": 294,
+    "title": "Bakara Suresi",
+    "startPage": 342,
+    "pdfPage": 338,
+    "paragraphCount": 6,
+    "lugatCount": 39
+   },
+   {
+    "id": 295,
+    "title": "Kur’ân’ın İfadesindeki İ’caz",
+    "startPage": 343,
+    "pdfPage": 339,
+    "paragraphCount": 7,
+    "lugatCount": 36
+   },
+   {
+    "id": 296,
+    "title": "Bakara Suresi",
+    "startPage": 344,
+    "pdfPage": 340,
+    "paragraphCount": 2,
+    "lugatCount": 59
+   },
+   {
+    "id": 297,
+    "title": "Kur’ân’ın İfadesindeki İ’caz",
+    "startPage": 345,
+    "pdfPage": 341,
+    "paragraphCount": 4,
+    "lugatCount": 47
+   },
+   {
+    "id": 298,
+    "title": "Bakara Suresi",
+    "startPage": 346,
+    "pdfPage": 342,
+    "paragraphCount": 4,
+    "lugatCount": 42
+   },
+   {
+    "id": 299,
+    "title": "Kur’ân’ın İfadesindeki İ’caz",
+    "startPage": 347,
+    "pdfPage": 343,
+    "paragraphCount": 5,
+    "lugatCount": 43
+   },
+   {
+    "id": 300,
+    "title": "Bakara Suresi",
+    "startPage": 348,
+    "pdfPage": 344,
+    "paragraphCount": 7,
+    "lugatCount": 34
+   },
+   {
+    "id": 301,
+    "title": "Kur’ân’ın İfadesindeki İ’caz",
+    "startPage": 349,
+    "pdfPage": 345,
+    "paragraphCount": 6,
+    "lugatCount": 43
+   },
+   {
+    "id": 302,
+    "title": "Bakara Suresi",
+    "startPage": 350,
+    "pdfPage": 346,
+    "paragraphCount": 11,
+    "lugatCount": 44
+   },
+   {
+    "id": 303,
+    "title": "Kur’ân’ın İfadesindeki İ’caz",
+    "startPage": 351,
+    "pdfPage": 347,
+    "paragraphCount": 9,
+    "lugatCount": 49
+   },
+   {
+    "id": 304,
+    "title": "Bakara Suresi",
+    "startPage": 352,
+    "pdfPage": 348,
+    "paragraphCount": 4,
+    "lugatCount": 32
+   },
+   {
+    "id": 305,
+    "title": "Kur’ân’ın İfadesindeki İ’caz",
+    "startPage": 353,
+    "pdfPage": 349,
+    "paragraphCount": 6,
+    "lugatCount": 39
+   },
+   {
+    "id": 306,
+    "title": "Bakara Suresi",
+    "startPage": 354,
+    "pdfPage": 350,
+    "paragraphCount": 7,
+    "lugatCount": 28
+   },
+   {
+    "id": 307,
+    "title": "Kur’ân’ın İfadesindeki İ’caz",
+    "startPage": 355,
+    "pdfPage": 351,
+    "paragraphCount": 5,
+    "lugatCount": 41
+   },
+   {
+    "id": 308,
+    "title": "Bakara Suresi",
+    "startPage": 356,
+    "pdfPage": 352,
+    "paragraphCount": 6,
+    "lugatCount": 31
+   },
+   {
+    "id": 309,
+    "title": "Kur’ân’ın İfadesindeki İ’caz",
+    "startPage": 357,
+    "pdfPage": 353,
+    "paragraphCount": 5,
+    "lugatCount": 38
+   },
+   {
+    "id": 310,
+    "title": "Bakara Suresi",
+    "startPage": 358,
+    "pdfPage": 354,
+    "paragraphCount": 7,
+    "lugatCount": 43
+   },
+   {
+    "id": 311,
+    "title": "Kur’ân’ın İfadesindeki İ’caz",
+    "startPage": 359,
+    "pdfPage": 355,
+    "paragraphCount": 9,
+    "lugatCount": 35
+   },
+   {
+    "id": 312,
+    "title": "Bakara Suresi",
+    "startPage": 360,
+    "pdfPage": 356,
+    "paragraphCount": 10,
+    "lugatCount": 29
+   },
+   {
+    "id": 313,
+    "title": "Kur’ân’ın İfadesindeki İ’caz",
+    "startPage": 361,
+    "pdfPage": 357,
+    "paragraphCount": 4,
+    "lugatCount": 26
+   },
+   {
+    "id": 314,
+    "title": "Bakara Suresi",
+    "startPage": 362,
+    "pdfPage": 358,
+    "paragraphCount": 7,
+    "lugatCount": 31
+   },
+   {
+    "id": 315,
+    "title": "Kur’ân’ın İfadesindeki İ’caz",
+    "startPage": 363,
+    "pdfPage": 359,
+    "paragraphCount": 4,
+    "lugatCount": 38
+   },
+   {
+    "id": 316,
+    "title": "Bakara Suresi",
+    "startPage": 364,
+    "pdfPage": 360,
+    "paragraphCount": 6,
+    "lugatCount": 32
+   },
+   {
+    "id": 317,
+    "title": "Kur’ân’ın İfadesindeki İ’caz",
+    "startPage": 365,
+    "pdfPage": 361,
+    "paragraphCount": 6,
+    "lugatCount": 29
+   },
+   {
+    "id": 318,
+    "title": "Bakara Suresi",
+    "startPage": 366,
+    "pdfPage": 362,
+    "paragraphCount": 10,
+    "lugatCount": 35
+   },
+   {
+    "id": 319,
+    "title": "Kur’ân’ın İfadesindeki İ’caz",
+    "startPage": 367,
+    "pdfPage": 363,
+    "paragraphCount": 7,
+    "lugatCount": 28
+   },
+   {
+    "id": 320,
+    "title": "Bakara Suresi",
+    "startPage": 368,
+    "pdfPage": 364,
+    "paragraphCount": 5,
+    "lugatCount": 39
+   },
+   {
+    "id": 321,
+    "title": "Kur’ân’ın İfadesindeki İ’caz",
+    "startPage": 369,
+    "pdfPage": 365,
+    "paragraphCount": 4,
+    "lugatCount": 46
+   },
+   {
+    "id": 322,
+    "title": "Bakara Suresi",
+    "startPage": 370,
+    "pdfPage": 366,
+    "paragraphCount": 5,
+    "lugatCount": 55
+   },
+   {
+    "id": 323,
+    "title": "Kur’ân’ın İfadesindeki İ’caz",
+    "startPage": 371,
+    "pdfPage": 367,
+    "paragraphCount": 6,
+    "lugatCount": 40
+   },
+   {
+    "id": 324,
+    "title": "Bakara Suresi",
+    "startPage": 372,
+    "pdfPage": 368,
+    "paragraphCount": 5,
+    "lugatCount": 41
+   },
+   {
+    "id": 325,
+    "title": "Kur’ân’ın İfadesindeki İ’caz",
+    "startPage": 373,
+    "pdfPage": 369,
+    "paragraphCount": 5,
+    "lugatCount": 37
+   },
+   {
+    "id": 326,
+    "title": "Bakara Suresi",
+    "startPage": 374,
+    "pdfPage": 370,
+    "paragraphCount": 9,
+    "lugatCount": 35
+   },
+   {
+    "id": 327,
+    "title": "Hayat Ve Ölüm",
+    "startPage": 375,
+    "pdfPage": 371,
+    "paragraphCount": 6,
+    "lugatCount": 50
+   },
+   {
+    "id": 328,
+    "title": "Bakara Suresi",
+    "startPage": 376,
+    "pdfPage": 372,
+    "paragraphCount": 10,
+    "lugatCount": 40
+   },
+   {
+    "id": 329,
+    "title": "Hayat Ve Ölüm",
+    "startPage": 377,
+    "pdfPage": 373,
+    "paragraphCount": 7,
+    "lugatCount": 36
+   },
+   {
+    "id": 330,
+    "title": "Bakara Suresi",
+    "startPage": 378,
+    "pdfPage": 374,
+    "paragraphCount": 3,
+    "lugatCount": 51
+   },
+   {
+    "id": 331,
+    "title": "Hayat Ve Ölüm",
+    "startPage": 379,
+    "pdfPage": 375,
+    "paragraphCount": 6,
+    "lugatCount": 48
+   },
+   {
+    "id": 332,
+    "title": "Bakara Suresi",
+    "startPage": 380,
+    "pdfPage": 376,
+    "paragraphCount": 8,
+    "lugatCount": 43
+   },
+   {
+    "id": 333,
+    "title": "Hayat Ve Ölüm",
+    "startPage": 381,
+    "pdfPage": 377,
+    "paragraphCount": 7,
+    "lugatCount": 31
+   },
+   {
+    "id": 334,
+    "title": "Bakara Suresi",
+    "startPage": 382,
+    "pdfPage": 378,
+    "paragraphCount": 7,
+    "lugatCount": 21
+   },
+   {
+    "id": 335,
+    "title": "Hayat Ve Ölüm",
+    "startPage": 383,
+    "pdfPage": 379,
+    "paragraphCount": 6,
+    "lugatCount": 37
+   },
+   {
+    "id": 336,
+    "title": "Bakara Suresi",
+    "startPage": 384,
+    "pdfPage": 380,
+    "paragraphCount": 3,
+    "lugatCount": 42
+   },
+   {
+    "id": 337,
+    "title": "Hayat Ve Ölüm",
+    "startPage": 385,
+    "pdfPage": 381,
+    "paragraphCount": 6,
+    "lugatCount": 44
+   },
+   {
+    "id": 338,
+    "title": "Bakara Suresi",
+    "startPage": 386,
+    "pdfPage": 382,
+    "paragraphCount": 8,
+    "lugatCount": 41
+   },
+   {
+    "id": 339,
+    "title": "İnsan Ve Kâinat",
+    "startPage": 387,
+    "pdfPage": 383,
+    "paragraphCount": 8,
+    "lugatCount": 33
+   },
+   {
+    "id": 340,
+    "title": "Bakara Suresi",
+    "startPage": 388,
+    "pdfPage": 384,
+    "paragraphCount": 8,
+    "lugatCount": 36
+   },
+   {
+    "id": 341,
+    "title": "İnsan Ve Kâinat",
+    "startPage": 389,
+    "pdfPage": 385,
+    "paragraphCount": 4,
+    "lugatCount": 41
+   },
+   {
+    "id": 342,
+    "title": "Bakara Suresi",
+    "startPage": 390,
+    "pdfPage": 386,
+    "paragraphCount": 6,
+    "lugatCount": 28
+   },
+   {
+    "id": 343,
+    "title": "İnsan Ve Kâinat",
+    "startPage": 391,
+    "pdfPage": 387,
+    "paragraphCount": 4,
+    "lugatCount": 37
+   },
+   {
+    "id": 344,
+    "title": "Bakara Suresi",
+    "startPage": 392,
+    "pdfPage": 388,
+    "paragraphCount": 4,
+    "lugatCount": 41
+   },
+   {
+    "id": 345,
+    "title": "İnsan Ve Kâinat",
+    "startPage": 393,
+    "pdfPage": 389,
+    "paragraphCount": 8,
+    "lugatCount": 39
+   },
+   {
+    "id": 346,
+    "title": "Bakara Suresi",
+    "startPage": 394,
+    "pdfPage": 390,
+    "paragraphCount": 7,
+    "lugatCount": 41
+   },
+   {
+    "id": 347,
+    "title": "İnsan Ve Kâinat",
+    "startPage": 395,
+    "pdfPage": 391,
+    "paragraphCount": 5,
+    "lugatCount": 41
+   },
+   {
+    "id": 348,
+    "title": "Bakara Suresi",
+    "startPage": 396,
+    "pdfPage": 392,
+    "paragraphCount": 7,
+    "lugatCount": 35
+   },
+   {
+    "id": 349,
+    "title": "İnsan Ve Kâinat",
+    "startPage": 397,
+    "pdfPage": 393,
+    "paragraphCount": 7,
+    "lugatCount": 42
+   },
+   {
+    "id": 350,
+    "title": "Bakara Suresi",
+    "startPage": 398,
+    "pdfPage": 394,
+    "paragraphCount": 10,
+    "lugatCount": 25
+   },
+   {
+    "id": 351,
+    "title": "İnsan Ve Kâinat",
+    "startPage": 399,
+    "pdfPage": 395,
+    "paragraphCount": 7,
+    "lugatCount": 37
+   },
+   {
+    "id": 352,
+    "title": "Bakara Suresi",
+    "startPage": 400,
+    "pdfPage": 396,
+    "paragraphCount": 9,
+    "lugatCount": 35
+   },
+   {
+    "id": 353,
+    "title": "İnsan Ve Kâinat",
+    "startPage": 401,
+    "pdfPage": 397,
+    "paragraphCount": 7,
+    "lugatCount": 37
+   },
+   {
+    "id": 354,
+    "title": "Bakara Suresi",
+    "startPage": 402,
+    "pdfPage": 398,
+    "paragraphCount": 10,
+    "lugatCount": 33
+   },
+   {
+    "id": 355,
+    "title": "Melâikeye İman",
+    "startPage": 403,
+    "pdfPage": 399,
+    "paragraphCount": 7,
+    "lugatCount": 26
+   },
+   {
+    "id": 356,
+    "title": "Bakara Suresi",
+    "startPage": 404,
+    "pdfPage": 400,
+    "paragraphCount": 6,
+    "lugatCount": 27
+   },
+   {
+    "id": 357,
+    "title": "Melâikeye İman",
+    "startPage": 405,
+    "pdfPage": 401,
+    "paragraphCount": 6,
+    "lugatCount": 61
+   },
+   {
+    "id": 358,
+    "title": "Bakara Suresi",
+    "startPage": 406,
+    "pdfPage": 402,
+    "paragraphCount": 7,
+    "lugatCount": 57
+   },
+   {
+    "id": 359,
+    "title": "Melâikeye İman",
+    "startPage": 407,
+    "pdfPage": 403,
+    "paragraphCount": 6,
+    "lugatCount": 54
+   },
+   {
+    "id": 360,
+    "title": "Bakara Suresi",
+    "startPage": 408,
+    "pdfPage": 404,
+    "paragraphCount": 6,
+    "lugatCount": 36
+   },
+   {
+    "id": 361,
+    "title": "Melâikeye İman",
+    "startPage": 409,
+    "pdfPage": 405,
+    "paragraphCount": 10,
+    "lugatCount": 23
+   },
+   {
+    "id": 362,
+    "title": "Bakara Suresi",
+    "startPage": 410,
+    "pdfPage": 406,
+    "paragraphCount": 7,
+    "lugatCount": 36
+   },
+   {
+    "id": 363,
+    "title": "Melâikeye İman",
+    "startPage": 411,
+    "pdfPage": 407,
+    "paragraphCount": 6,
+    "lugatCount": 34
+   },
+   {
+    "id": 364,
+    "title": "Bakara Suresi",
+    "startPage": 412,
+    "pdfPage": 408,
+    "paragraphCount": 6,
+    "lugatCount": 34
+   },
+   {
+    "id": 365,
+    "title": "Melâikeye İman",
+    "startPage": 413,
+    "pdfPage": 409,
+    "paragraphCount": 4,
+    "lugatCount": 40
+   },
+   {
+    "id": 366,
+    "title": "Bakara Suresi",
+    "startPage": 414,
+    "pdfPage": 410,
+    "paragraphCount": 5,
+    "lugatCount": 40
+   },
+   {
+    "id": 367,
+    "title": "Melâikeye İman",
+    "startPage": 415,
+    "pdfPage": 411,
+    "paragraphCount": 7,
+    "lugatCount": 30
+   },
+   {
+    "id": 368,
+    "title": "Bakara Suresi",
+    "startPage": 416,
+    "pdfPage": 412,
+    "paragraphCount": 8,
+    "lugatCount": 33
+   },
+   {
+    "id": 369,
+    "title": "Melâikeye İman",
+    "startPage": 417,
+    "pdfPage": 413,
+    "paragraphCount": 9,
+    "lugatCount": 33
+   },
+   {
+    "id": 370,
+    "title": "Bakara Suresi",
+    "startPage": 418,
+    "pdfPage": 414,
+    "paragraphCount": 6,
+    "lugatCount": 22
+   },
+   {
+    "id": 371,
+    "title": "İnsanın Yaratılışı",
+    "startPage": 419,
+    "pdfPage": 415,
+    "paragraphCount": 15,
+    "lugatCount": 39
+   },
+   {
+    "id": 372,
+    "title": "Bakara Suresi",
+    "startPage": 420,
+    "pdfPage": 416,
+    "paragraphCount": 8,
+    "lugatCount": 35
+   },
+   {
+    "id": 373,
+    "title": "İnsanın Yaratılışı",
+    "startPage": 421,
+    "pdfPage": 417,
+    "paragraphCount": 8,
+    "lugatCount": 30
+   },
+   {
+    "id": 374,
+    "title": "Bakara Suresi",
+    "startPage": 422,
+    "pdfPage": 418,
+    "paragraphCount": 5,
+    "lugatCount": 24
+   },
+   {
+    "id": 375,
+    "title": "İnsanın Yaratılışı",
+    "startPage": 423,
+    "pdfPage": 419,
+    "paragraphCount": 7,
+    "lugatCount": 43
+   },
+   {
+    "id": 376,
+    "title": "Bakara Suresi",
+    "startPage": 424,
+    "pdfPage": 420,
+    "paragraphCount": 8,
+    "lugatCount": 47
+   },
+   {
+    "id": 377,
+    "title": "İnsanın Yaratılışı",
+    "startPage": 425,
+    "pdfPage": 421,
+    "paragraphCount": 6,
+    "lugatCount": 50
+   },
+   {
+    "id": 378,
+    "title": "Bakara Suresi",
+    "startPage": 426,
+    "pdfPage": 422,
+    "paragraphCount": 6,
+    "lugatCount": 42
+   },
+   {
+    "id": 379,
+    "title": "İnsanın Yaratılışı",
+    "startPage": 427,
+    "pdfPage": 423,
+    "paragraphCount": 4,
+    "lugatCount": 41
+   },
+   {
+    "id": 380,
+    "title": "Bakara Suresi",
+    "startPage": 428,
+    "pdfPage": 424,
+    "paragraphCount": 7,
+    "lugatCount": 34
+   },
+   {
+    "id": 381,
+    "title": "Ecnebi Feylesoflar",
+    "startPage": 429,
+    "pdfPage": 425,
+    "paragraphCount": 9,
+    "lugatCount": 39
+   },
+   {
+    "id": 382,
+    "title": "Bakara Suresi",
+    "startPage": 430,
+    "pdfPage": 426,
+    "paragraphCount": 6,
+    "lugatCount": 30
+   },
+   {
+    "id": 383,
+    "title": "Ecnebi Feylesoflar",
+    "startPage": 431,
+    "pdfPage": 427,
+    "paragraphCount": 6,
+    "lugatCount": 51
+   },
+   {
+    "id": 384,
+    "title": "Bakara Suresi",
+    "startPage": 432,
+    "pdfPage": 428,
+    "paragraphCount": 6,
+    "lugatCount": 29
+   },
+   {
+    "id": 385,
+    "title": "Ecnebi Feylesoflar",
+    "startPage": 433,
+    "pdfPage": 429,
+    "paragraphCount": 5,
+    "lugatCount": 43
+   },
+   {
+    "id": 386,
+    "title": "Bakara Suresi",
+    "startPage": 434,
+    "pdfPage": 430,
+    "paragraphCount": 10,
+    "lugatCount": 38
+   },
+   {
+    "id": 387,
+    "title": "Ecnebi Feylesoflar",
+    "startPage": 435,
+    "pdfPage": 431,
+    "paragraphCount": 11,
+    "lugatCount": 21
+   },
+   {
+    "id": 388,
+    "title": "Bakara Suresi",
+    "startPage": 436,
+    "pdfPage": 432,
+    "paragraphCount": 8,
+    "lugatCount": 33
+   },
+   {
+    "id": 389,
+    "title": "Ecnebi Feylesoflar",
+    "startPage": 437,
+    "pdfPage": 433,
+    "paragraphCount": 9,
+    "lugatCount": 33
+   },
+   {
+    "id": 390,
+    "title": "Bakara Suresi",
+    "startPage": 438,
+    "pdfPage": 434,
+    "paragraphCount": 6,
+    "lugatCount": 40
+   },
+   {
+    "id": 391,
+    "title": "Ecnebi Feylesoflar",
+    "startPage": 439,
+    "pdfPage": 435,
+    "paragraphCount": 7,
+    "lugatCount": 35
+   },
+   {
+    "id": 392,
+    "title": "Bakara Suresi",
+    "startPage": 440,
+    "pdfPage": 436,
+    "paragraphCount": 4,
+    "lugatCount": 48
+   },
+   {
+    "id": 393,
+    "title": "Ecnebi Feylesoflar",
+    "startPage": 441,
+    "pdfPage": 437,
+    "paragraphCount": 7,
+    "lugatCount": 33
+   },
+   {
+    "id": 394,
+    "title": "Bakara Suresi",
+    "startPage": 442,
+    "pdfPage": 438,
+    "paragraphCount": 6,
+    "lugatCount": 49
+   },
+   {
+    "id": 395,
+    "title": "Ecnebi Feylesoflar",
+    "startPage": 443,
+    "pdfPage": 439,
+    "paragraphCount": 8,
+    "lugatCount": 43
+   },
+   {
+    "id": 396,
+    "title": "Bakara Suresi",
+    "startPage": 444,
+    "pdfPage": 440,
+    "paragraphCount": 7,
+    "lugatCount": 34
+   },
+   {
+    "id": 397,
+    "title": "Ecnebi Feylesoflar",
+    "startPage": 445,
+    "pdfPage": 441,
+    "paragraphCount": 7,
+    "lugatCount": 41
+   },
+   {
+    "id": 398,
+    "title": "Bakara Suresi",
+    "startPage": 446,
+    "pdfPage": 442,
+    "paragraphCount": 6,
+    "lugatCount": 51
+   },
+   {
+    "id": 399,
+    "title": "Ecnebi Feylesoflar",
+    "startPage": 447,
+    "pdfPage": 443,
+    "paragraphCount": 5,
+    "lugatCount": 43
+   },
+   {
+    "id": 400,
+    "title": "Bakara Suresi",
+    "startPage": 448,
+    "pdfPage": 444,
+    "paragraphCount": 10,
+    "lugatCount": 61
+   },
+   {
+    "id": 401,
+    "title": "Bir Müdafaa",
+    "startPage": 449,
+    "pdfPage": 445,
+    "paragraphCount": 5,
+    "lugatCount": 41
+   },
+   {
+    "id": 402,
+    "title": "Bakara Suresi",
+    "startPage": 450,
+    "pdfPage": 446,
+    "paragraphCount": 5,
+    "lugatCount": 39
+   },
+   {
+    "id": 403,
+    "title": "Bir Müdafaa",
+    "startPage": 451,
+    "pdfPage": 447,
+    "paragraphCount": 5,
+    "lugatCount": 51
+   },
+   {
+    "id": 404,
+    "title": "Bakara Suresi",
+    "startPage": 452,
+    "pdfPage": 448,
+    "paragraphCount": 3,
+    "lugatCount": 43
+   },
+   {
+    "id": 405,
+    "title": "Bir Müdafaa",
+    "startPage": 453,
+    "pdfPage": 449,
+    "paragraphCount": 3,
+    "lugatCount": 46
+   },
+   {
+    "id": 406,
+    "title": "Bakara Suresi",
+    "startPage": 454,
+    "pdfPage": 450,
+    "paragraphCount": 3,
+    "lugatCount": 45
+   },
+   {
+    "id": 407,
+    "title": "Bir Müdafaa",
+    "startPage": 455,
+    "pdfPage": 451,
+    "paragraphCount": 4,
+    "lugatCount": 57
+   },
+   {
+    "id": 408,
+    "title": "Bakara Suresi",
+    "startPage": 456,
+    "pdfPage": 452,
+    "paragraphCount": 4,
+    "lugatCount": 47
+   },
+   {
+    "id": 409,
+    "title": "Bir Müdafaa",
+    "startPage": 457,
+    "pdfPage": 453,
+    "paragraphCount": 7,
+    "lugatCount": 30
+   },
+   {
+    "id": 410,
+    "title": "Bakara Suresi",
+    "startPage": 458,
+    "pdfPage": 454,
+    "paragraphCount": 5,
+    "lugatCount": 33
+   },
+   {
+    "id": 411,
+    "title": "Ekler",
+    "startPage": 459,
+    "pdfPage": 455,
+    "paragraphCount": 8,
+    "lugatCount": 0
+   },
+   {
+    "id": 412,
+    "title": "Şahıs Bilgileri",
+    "startPage": 461,
+    "pdfPage": 457,
+    "paragraphCount": 89,
+    "lugatCount": 0
+   },
+   {
+    "id": 413,
+    "title": "Yer Bilgileri",
+    "startPage": 481,
+    "pdfPage": 477,
+    "paragraphCount": 51,
+    "lugatCount": 0
+   },
+   {
+    "id": 414,
+    "title": "Arapça Metin İndeksi",
+    "startPage": 489,
+    "pdfPage": 485,
+    "paragraphCount": 1815,
+    "lugatCount": 0
+   },
+   {
+    "id": 415,
+    "title": "Hadis İndeksi",
+    "startPage": 526,
+    "pdfPage": 522,
+    "paragraphCount": 7,
+    "lugatCount": 0
+   },
+   {
+    "id": 416,
+    "title": "Şahıs İndeksi",
+    "startPage": 527,
+    "pdfPage": 523,
+    "paragraphCount": 64,
+    "lugatCount": 0
+   },
+   {
+    "id": 417,
+    "title": "Yer İndeksi",
+    "startPage": 530,
+    "pdfPage": 526,
+    "paragraphCount": 16,
+    "lugatCount": 0
+   },
+   {
+    "id": 418,
+    "title": "Genel İndeks",
+    "startPage": 531,
+    "pdfPage": 527,
+    "paragraphCount": 1,
+    "lugatCount": 0
+   },
+   {
+    "id": 419,
+    "title": "Kronolojik Bilgiler",
+    "startPage": 577,
+    "pdfPage": 573,
+    "paragraphCount": 850,
+    "lugatCount": 0
+   }
+  ]
+ },
+ "kastamonu-lahikasi": {
+  "slug": "kastamonu-lahikasi",
+  "bookTitle": "Kastamonu Lâhikası",
+  "pageCount": 504,
+  "wordCount": 104351,
+  "lugatCount": 9545,
+  "sections": [
+   {
+    "id": 1,
+    "title": "Giriş",
+    "startPage": 1,
+    "pdfPage": 1,
+    "paragraphCount": 7,
+    "lugatCount": 0
+   },
+   {
+    "id": 2,
+    "title": "Sayfa 1–20",
+    "startPage": 5,
+    "pdfPage": 2,
+    "paragraphCount": 139,
+    "lugatCount": 112
+   },
+   {
+    "id": 3,
+    "title": "Sayfa 21–40",
+    "startPage": 21,
+    "pdfPage": 18,
+    "paragraphCount": 116,
+    "lugatCount": 523
+   },
+   {
+    "id": 4,
+    "title": "Sayfa 41–60",
+    "startPage": 41,
+    "pdfPage": 38,
+    "paragraphCount": 116,
+    "lugatCount": 470
+   },
+   {
+    "id": 5,
+    "title": "Sayfa 61–80",
+    "startPage": 61,
+    "pdfPage": 58,
+    "paragraphCount": 85,
+    "lugatCount": 533
+   },
+   {
+    "id": 6,
+    "title": "Sayfa 81–100",
+    "startPage": 81,
+    "pdfPage": 78,
+    "paragraphCount": 84,
+    "lugatCount": 570
+   },
+   {
+    "id": 7,
+    "title": "Sayfa 101–120",
+    "startPage": 101,
+    "pdfPage": 98,
+    "paragraphCount": 99,
+    "lugatCount": 444
+   },
+   {
+    "id": 8,
+    "title": "Sayfa 121–140",
+    "startPage": 121,
+    "pdfPage": 118,
+    "paragraphCount": 103,
+    "lugatCount": 439
+   },
+   {
+    "id": 9,
+    "title": "Sayfa 141–160",
+    "startPage": 141,
+    "pdfPage": 138,
+    "paragraphCount": 90,
+    "lugatCount": 502
+   },
+   {
+    "id": 10,
+    "title": "Sayfa 161–180",
+    "startPage": 161,
+    "pdfPage": 158,
+    "paragraphCount": 96,
+    "lugatCount": 467
+   },
+   {
+    "id": 11,
+    "title": "Sayfa 181–200",
+    "startPage": 181,
+    "pdfPage": 178,
+    "paragraphCount": 88,
+    "lugatCount": 495
+   },
+   {
+    "id": 12,
+    "title": "Sayfa 201–220",
+    "startPage": 201,
+    "pdfPage": 198,
+    "paragraphCount": 85,
+    "lugatCount": 493
+   },
+   {
+    "id": 13,
+    "title": "Sayfa 221–240",
+    "startPage": 221,
+    "pdfPage": 218,
+    "paragraphCount": 319,
+    "lugatCount": 626
+   },
+   {
+    "id": 14,
+    "title": "Sayfa 241–260",
+    "startPage": 241,
+    "pdfPage": 238,
+    "paragraphCount": 314,
+    "lugatCount": 653
+   },
+   {
+    "id": 15,
+    "title": "Sayfa 261–280",
+    "startPage": 261,
+    "pdfPage": 258,
+    "paragraphCount": 103,
+    "lugatCount": 518
+   },
+   {
+    "id": 16,
+    "title": "Sayfa 281–300",
+    "startPage": 281,
+    "pdfPage": 278,
+    "paragraphCount": 108,
+    "lugatCount": 468
+   },
+   {
+    "id": 17,
+    "title": "Sayfa 301–320",
+    "startPage": 301,
+    "pdfPage": 298,
+    "paragraphCount": 89,
+    "lugatCount": 476
+   },
+   {
+    "id": 18,
+    "title": "Sayfa 321–340",
+    "startPage": 321,
+    "pdfPage": 318,
+    "paragraphCount": 88,
+    "lugatCount": 470
+   },
+   {
+    "id": 19,
+    "title": "Sayfa 341–360",
+    "startPage": 341,
+    "pdfPage": 338,
+    "paragraphCount": 88,
+    "lugatCount": 463
+   },
+   {
+    "id": 20,
+    "title": "Sayfa 361–380",
+    "startPage": 361,
+    "pdfPage": 358,
+    "paragraphCount": 83,
+    "lugatCount": 485
+   },
+   {
+    "id": 21,
+    "title": "Sayfa 381–400",
+    "startPage": 381,
+    "pdfPage": 378,
+    "paragraphCount": 52,
+    "lugatCount": 338
+   },
+   {
+    "id": 22,
+    "title": "Şahıs Bilgileri",
+    "startPage": 393,
+    "pdfPage": 390,
+    "paragraphCount": 8,
+    "lugatCount": 0
+   },
+   {
+    "id": 23,
+    "title": "Şahıs Bilgileri",
+    "startPage": 395,
+    "pdfPage": 392,
+    "paragraphCount": 183,
+    "lugatCount": 0
+   },
+   {
+    "id": 24,
+    "title": "Yer Bilgileri",
+    "startPage": 419,
+    "pdfPage": 415,
+    "paragraphCount": 92,
+    "lugatCount": 0
+   },
+   {
+    "id": 25,
+    "title": "Arapça Metin İndeksi",
+    "startPage": 431,
+    "pdfPage": 426,
+    "paragraphCount": 436,
+    "lugatCount": 0
+   },
+   {
+    "id": 26,
+    "title": "Hadis İndeksi",
+    "startPage": 441,
+    "pdfPage": 436,
+    "paragraphCount": 12,
+    "lugatCount": 0
+   },
+   {
+    "id": 27,
+    "title": "Şahıs İndeksi",
+    "startPage": 443,
+    "pdfPage": 438,
+    "paragraphCount": 166,
+    "lugatCount": 0
+   },
+   {
+    "id": 28,
+    "title": "Yer İndeksi",
+    "startPage": 448,
+    "pdfPage": 443,
+    "paragraphCount": 34,
+    "lugatCount": 0
+   },
+   {
+    "id": 29,
+    "title": "Genel İndeks",
+    "startPage": 451,
+    "pdfPage": 446,
+    "paragraphCount": 1868,
+    "lugatCount": 0
+   },
+   {
+    "id": 30,
+    "title": "Kronolojik Bilgiler",
+    "startPage": 495,
+    "pdfPage": 490,
+    "paragraphCount": 850,
+    "lugatCount": 0
+   }
+  ]
+ },
+ "lemalar": {
+  "slug": "lemalar",
+  "bookTitle": "Lem’alar",
+  "pageCount": 1401,
+  "wordCount": 254267,
+  "lugatCount": 19589,
+  "sections": [
+   {
+    "id": 1,
+    "title": "Takdim",
+    "startPage": 9,
+    "pdfPage": 6,
+    "paragraphCount": 20,
+    "lugatCount": 0
+   },
+   {
+    "id": 2,
+    "title": "Biyografi",
+    "startPage": 11,
+    "pdfPage": 8,
+    "paragraphCount": 41,
+    "lugatCount": 0
+   },
+   {
+    "id": 3,
+    "title": "Birinci Lem’a",
+    "startPage": 15,
+    "pdfPage": 12,
+    "paragraphCount": 21,
+    "lugatCount": 143
+   },
+   {
+    "id": 4,
+    "title": "İkinci Lem’a",
+    "startPage": 20,
+    "pdfPage": 17,
+    "paragraphCount": 75,
+    "lugatCount": 368
+   },
+   {
+    "id": 5,
+    "title": "Üçüncü Lem’a",
+    "startPage": 32,
+    "pdfPage": 29,
+    "paragraphCount": 57,
+    "lugatCount": 220
+   },
+   {
+    "id": 6,
+    "title": "Dördüncü Lem’a",
+    "startPage": 40,
+    "pdfPage": 37,
+    "paragraphCount": 74,
+    "lugatCount": 391
+   },
+   {
+    "id": 7,
+    "title": "Yedinci Lem’a",
+    "startPage": 55,
+    "pdfPage": 52,
+    "paragraphCount": 77,
+    "lugatCount": 452
+   },
+   {
+    "id": 8,
+    "title": "Sekizinci Lem’a",
+    "startPage": 72,
+    "pdfPage": 69,
+    "paragraphCount": 397,
+    "lugatCount": 1146
+   },
+   {
+    "id": 9,
+    "title": "Dokuzuncu Lem’a",
+    "startPage": 141,
+    "pdfPage": 138,
+    "paragraphCount": 67,
+    "lugatCount": 535
+   },
+   {
+    "id": 10,
+    "title": "Onuncu Lem’a",
+    "startPage": 157,
+    "pdfPage": 154,
+    "paragraphCount": 78,
+    "lugatCount": 397
+   },
+   {
+    "id": 11,
+    "title": "On Birinci Lem’a",
+    "startPage": 173,
+    "pdfPage": 170,
+    "paragraphCount": 92,
+    "lugatCount": 613
+   },
+   {
+    "id": 12,
+    "title": "On İkinci Lem’a",
+    "startPage": 194,
+    "pdfPage": 191,
+    "paragraphCount": 113,
+    "lugatCount": 467
+   },
+   {
+    "id": 13,
+    "title": "On Üçüncü Lem’a",
+    "startPage": 208,
+    "pdfPage": 205,
+    "paragraphCount": 145,
+    "lugatCount": 946
+   },
+   {
+    "id": 14,
+    "title": "On Dördüncü Lem’a",
+    "startPage": 244,
+    "pdfPage": 241,
+    "paragraphCount": 125,
+    "lugatCount": 567
+   },
+   {
+    "id": 15,
+    "title": "On Altıncı Lem’a",
+    "startPage": 267,
+    "pdfPage": 264,
+    "paragraphCount": 98,
+    "lugatCount": 582
+   },
+   {
+    "id": 16,
+    "title": "On Yedinci Lem’a",
+    "startPage": 287,
+    "pdfPage": 284,
+    "paragraphCount": 210,
+    "lugatCount": 1253
+   },
+   {
+    "id": 17,
+    "title": "On Sekizinci Lem’a",
+    "startPage": 336,
+    "pdfPage": 333,
+    "paragraphCount": 98,
+    "lugatCount": 395
+   },
+   {
+    "id": 18,
+    "title": "On Dokuzuncu Lem’a",
+    "startPage": 353,
+    "pdfPage": 350,
+    "paragraphCount": 95,
+    "lugatCount": 434
+   },
+   {
+    "id": 19,
+    "title": "Yirminci Lem’a",
+    "startPage": 370,
+    "pdfPage": 367,
+    "paragraphCount": 93,
+    "lugatCount": 486
+   },
+   {
+    "id": 20,
+    "title": "Yirmi Birinci Lem’a",
+    "startPage": 389,
+    "pdfPage": 386,
+    "paragraphCount": 77,
+    "lugatCount": 459
+   },
+   {
+    "id": 21,
+    "title": "Yirmi İkinci Lem’a",
+    "startPage": 405,
+    "pdfPage": 402,
+    "paragraphCount": 69,
+    "lugatCount": 450
+   },
+   {
+    "id": 22,
+    "title": "Yirmi Üçüncü Lem’a",
+    "startPage": 420,
+    "pdfPage": 417,
+    "paragraphCount": 165,
+    "lugatCount": 800
+   },
+   {
+    "id": 23,
+    "title": "Yirmi Dördüncü Lem’a",
+    "startPage": 453,
+    "pdfPage": 450,
+    "paragraphCount": 83,
+    "lugatCount": 459
+   },
+   {
+    "id": 24,
+    "title": "Yirmi Beşinci Lem’a",
+    "startPage": 470,
+    "pdfPage": 467,
+    "paragraphCount": 162,
+    "lugatCount": 640
+   },
+   {
+    "id": 25,
+    "title": "Yirmi Altıncı Lem’a",
+    "startPage": 501,
+    "pdfPage": 498,
+    "paragraphCount": 370,
+    "lugatCount": 1471
+   },
+   {
+    "id": 26,
+    "title": "Yirmi Sekizinci Lem’a",
+    "startPage": 583,
+    "pdfPage": 581,
+    "paragraphCount": 421,
+    "lugatCount": 1660
+   },
+   {
+    "id": 27,
+    "title": "Yirmi Dokuzuncu Lem’a",
+    "startPage": 673,
+    "pdfPage": 671,
+    "paragraphCount": 694,
+    "lugatCount": 1954
+   },
+   {
+    "id": 28,
+    "title": "Otuzuncu Lem’a",
+    "startPage": 868,
+    "pdfPage": 866,
+    "paragraphCount": 407,
+    "lugatCount": 1623
+   },
+   {
+    "id": 29,
+    "title": "Münacat",
+    "startPage": 965,
+    "pdfPage": 962,
+    "paragraphCount": 102,
+    "lugatCount": 648
+   },
+   {
+    "id": 30,
+    "title": "Otuzuncu Lem’a",
+    "startPage": 964,
+    "pdfPage": 988,
+    "paragraphCount": 6,
+    "lugatCount": 30
+   },
+   {
+    "id": 31,
+    "title": "Ekler",
+    "startPage": 1123,
+    "pdfPage": 1121,
+    "paragraphCount": 9,
+    "lugatCount": 0
+   },
+   {
+    "id": 32,
+    "title": "Telif Tarihçesi",
+    "startPage": 1124,
+    "pdfPage": 1122,
+    "paragraphCount": 7,
+    "lugatCount": 0
+   },
+   {
+    "id": 33,
+    "title": "Şahıs Bilgileri",
+    "startPage": 1125,
+    "pdfPage": 1123,
+    "paragraphCount": 157,
+    "lugatCount": 0
+   },
+   {
+    "id": 34,
+    "title": "Yer Bilgileri",
+    "startPage": 1153,
+    "pdfPage": 1151,
+    "paragraphCount": 114,
+    "lugatCount": 0
+   },
+   {
+    "id": 35,
+    "title": "Arapça Metin İndeksi",
+    "startPage": 1169,
+    "pdfPage": 1167,
+    "paragraphCount": 1750,
+    "lugatCount": 0
+   },
+   {
+    "id": 36,
+    "title": "Şahıs İndeksi",
+    "startPage": 1215,
+    "pdfPage": 1205,
+    "paragraphCount": 320,
+    "lugatCount": 0
+   },
+   {
+    "id": 37,
+    "title": "Yer İndeksi",
+    "startPage": 1223,
+    "pdfPage": 1213,
+    "paragraphCount": 53,
+    "lugatCount": 0
+   },
+   {
+    "id": 38,
+    "title": "Genel İndeks",
+    "startPage": 1225,
+    "pdfPage": 1215,
+    "paragraphCount": 8096,
+    "lugatCount": 0
+   },
+   {
+    "id": 39,
+    "title": "Kronolojik Bilgiler",
+    "startPage": 1396,
+    "pdfPage": 1386,
+    "paragraphCount": 850,
+    "lugatCount": 0
+   }
+  ]
+ },
+ "mektubat": {
+  "slug": "mektubat",
+  "bookTitle": "Mektubat",
+  "pageCount": 1118,
+  "wordCount": 216596,
+  "lugatCount": 16927,
+  "sections": [
+   {
+    "id": 1,
+    "title": "Takdim",
+    "startPage": 9,
+    "pdfPage": 6,
+    "paragraphCount": 20,
+    "lugatCount": 0
+   },
+   {
+    "id": 2,
+    "title": "Biyografi",
+    "startPage": 11,
+    "pdfPage": 8,
+    "paragraphCount": 41,
+    "lugatCount": 0
+   },
+   {
+    "id": 3,
+    "title": "Birinci Mektup",
+    "startPage": 12,
+    "pdfPage": 12,
+    "paragraphCount": 53,
+    "lugatCount": 362
+   },
+   {
+    "id": 4,
+    "title": "İkinci Mektup",
+    "startPage": 27,
+    "pdfPage": 24,
+    "paragraphCount": 20,
+    "lugatCount": 123
+   },
+   {
+    "id": 5,
+    "title": "Üçüncü Mektup",
+    "startPage": 30,
+    "pdfPage": 27,
+    "paragraphCount": 40,
+    "lugatCount": 226
+   },
+   {
+    "id": 6,
+    "title": "Dördüncü Mektup",
+    "startPage": 36,
+    "pdfPage": 33,
+    "paragraphCount": 62,
+    "lugatCount": 129
+   },
+   {
+    "id": 7,
+    "title": "Beşinci Mektup",
+    "startPage": 40,
+    "pdfPage": 37,
+    "paragraphCount": 31,
+    "lugatCount": 81
+   },
+   {
+    "id": 8,
+    "title": "Altıncı Mektup",
+    "startPage": 43,
+    "pdfPage": 40,
+    "paragraphCount": 36,
+    "lugatCount": 120
+   },
+   {
+    "id": 9,
+    "title": "Yedinci Mektup",
+    "startPage": 47,
+    "pdfPage": 44,
+    "paragraphCount": 20,
+    "lugatCount": 151
+   },
+   {
+    "id": 10,
+    "title": "Sekizinci Mektup",
+    "startPage": 51,
+    "pdfPage": 48,
+    "paragraphCount": 13,
+    "lugatCount": 100
+   },
+   {
+    "id": 11,
+    "title": "Dokuzuncu Mektup",
+    "startPage": 54,
+    "pdfPage": 51,
+    "paragraphCount": 50,
+    "lugatCount": 217
+   },
+   {
+    "id": 12,
+    "title": "Onuncu Mektup",
+    "startPage": 60,
+    "pdfPage": 57,
+    "paragraphCount": 17,
+    "lugatCount": 157
+   },
+   {
+    "id": 13,
+    "title": "On Birinci Mektup",
+    "startPage": 65,
+    "pdfPage": 62,
+    "paragraphCount": 28,
+    "lugatCount": 140
+   },
+   {
+    "id": 14,
+    "title": "On İkinci Mektup",
+    "startPage": 69,
+    "pdfPage": 66,
+    "paragraphCount": 32,
+    "lugatCount": 249
+   },
+   {
+    "id": 15,
+    "title": "On Üçüncü Mektup",
+    "startPage": 77,
+    "pdfPage": 74,
+    "paragraphCount": 36,
+    "lugatCount": 190
+   },
+   {
+    "id": 16,
+    "title": "On Beşinci Mektup",
+    "startPage": 81,
+    "pdfPage": 81,
+    "paragraphCount": 86,
+    "lugatCount": 504
+   },
+   {
+    "id": 17,
+    "title": "On Altıncı Mektup",
+    "startPage": 101,
+    "pdfPage": 99,
+    "paragraphCount": 150,
+    "lugatCount": 595
+   },
+   {
+    "id": 18,
+    "title": "On Yedinci Mektup",
+    "startPage": 128,
+    "pdfPage": 126,
+    "paragraphCount": 36,
+    "lugatCount": 162
+   },
+   {
+    "id": 19,
+    "title": "On Sekizinci Mektup",
+    "startPage": 134,
+    "pdfPage": 132,
+    "paragraphCount": 68,
+    "lugatCount": 480
+   },
+   {
+    "id": 20,
+    "title": "On Dokuzuncu Mektup",
+    "startPage": 151,
+    "pdfPage": 149,
+    "paragraphCount": 1174,
+    "lugatCount": 2840
+   },
+   {
+    "id": 21,
+    "title": "Yirminci Mektup",
+    "startPage": 374,
+    "pdfPage": 372,
+    "paragraphCount": 292,
+    "lugatCount": 1284
+   },
+   {
+    "id": 22,
+    "title": "Yirmi Birinci Mektup",
+    "startPage": 437,
+    "pdfPage": 435,
+    "paragraphCount": 15,
+    "lugatCount": 127
+   },
+   {
+    "id": 23,
+    "title": "Yirmi İkinci Mektup",
+    "startPage": 442,
+    "pdfPage": 440,
+    "paragraphCount": 145,
+    "lugatCount": 657
+   },
+   {
+    "id": 24,
+    "title": "Yirmi Üçüncü Mektup",
+    "startPage": 468,
+    "pdfPage": 466,
+    "paragraphCount": 76,
+    "lugatCount": 300
+   },
+   {
+    "id": 25,
+    "title": "Yirmi Dördüncü Mektup",
+    "startPage": 478,
+    "pdfPage": 476,
+    "paragraphCount": 231,
+    "lugatCount": 962
+   },
+   {
+    "id": 26,
+    "title": "Yirmi Altıncı Mektup",
+    "startPage": 520,
+    "pdfPage": 518,
+    "paragraphCount": 321,
+    "lugatCount": 1307
+   },
+   {
+    "id": 27,
+    "title": "Yirmi Yedinci Mektup",
+    "startPage": 578,
+    "pdfPage": 576,
+    "paragraphCount": 6,
+    "lugatCount": 27
+   },
+   {
+    "id": 28,
+    "title": "Yirmi Sekizinci Mektup",
+    "startPage": 579,
+    "pdfPage": 578,
+    "paragraphCount": 387,
+    "lugatCount": 1745
+   },
+   {
+    "id": 29,
+    "title": "Yirmi Dokuzuncu Mektup",
+    "startPage": 659,
+    "pdfPage": 658,
+    "paragraphCount": 575,
+    "lugatCount": 2507
+   },
+   {
+    "id": 30,
+    "title": "Otuzuncu Mektup",
+    "startPage": 782,
+    "pdfPage": 781,
+    "paragraphCount": 10,
+    "lugatCount": 14
+   },
+   {
+    "id": 31,
+    "title": "Ekler",
+    "startPage": 873,
+    "pdfPage": 836,
+    "paragraphCount": 10,
+    "lugatCount": 0
+   },
+   {
+    "id": 32,
+    "title": "Telif Tarihçesi",
+    "startPage": 874,
+    "pdfPage": 837,
+    "paragraphCount": 16,
+    "lugatCount": 0
+   },
+   {
+    "id": 33,
+    "title": "Şahıs Bilgileri",
+    "startPage": 875,
+    "pdfPage": 838,
+    "paragraphCount": 358,
+    "lugatCount": 0
+   },
+   {
+    "id": 34,
+    "title": "Yer Bilgileri",
+    "startPage": 943,
+    "pdfPage": 906,
+    "paragraphCount": 123,
+    "lugatCount": 0
+   },
+   {
+    "id": 35,
+    "title": "Ayet İndeksi",
+    "startPage": 959,
+    "pdfPage": 922,
+    "paragraphCount": 860,
+    "lugatCount": 0
+   },
+   {
+    "id": 36,
+    "title": "Hadis İndeksi",
+    "startPage": 977,
+    "pdfPage": 940,
+    "paragraphCount": 1141,
+    "lugatCount": 0
+   },
+   {
+    "id": 37,
+    "title": "Yer İndeksi",
+    "startPage": 977,
+    "pdfPage": 977,
+    "paragraphCount": 99,
+    "lugatCount": 0
+   },
+   {
+    "id": 38,
+    "title": "Genel İndeks",
+    "startPage": 1019,
+    "pdfPage": 982,
+    "paragraphCount": 1,
+    "lugatCount": 2
+   },
+   {
+    "id": 39,
+    "title": "Kronolojik Bilgiler",
+    "startPage": 1105,
+    "pdfPage": 1068,
+    "paragraphCount": 850,
+    "lugatCount": 0
+   },
+   {
+    "id": 40,
+    "title": "Hakikat Çekirdekleri",
+    "startPage": 793,
+    "pdfPage": 1083,
+    "paragraphCount": 443,
+    "lugatCount": 714
+   },
+   {
+    "id": 41,
+    "title": "Gönüller Fatihi",
+    "startPage": 813,
+    "pdfPage": 1103,
+    "paragraphCount": 12,
+    "lugatCount": 85
+   },
+   {
+    "id": 42,
+    "title": "Hakikat Işıkları",
+    "startPage": 816,
+    "pdfPage": 1106,
+    "paragraphCount": 61,
+    "lugatCount": 67
+   },
+   {
+    "id": 43,
+    "title": "Takriz",
+    "startPage": 783,
+    "pdfPage": 1109,
+    "paragraphCount": 50,
+    "lugatCount": 303
+   }
+  ]
+ },
+ "mesnevi-i-nuriye": {
+  "slug": "mesnevi-i-nuriye",
+  "bookTitle": "Mesnevî-i Nuriye",
+  "pageCount": 948,
+  "wordCount": 152593,
+  "lugatCount": 9142,
+  "sections": [
+   {
+    "id": 1,
+    "title": "Giriş",
+    "startPage": 1,
+    "pdfPage": 1,
+    "paragraphCount": 2539,
+    "lugatCount": 4571
+   },
+   {
+    "id": 2,
+    "title": "Ekler",
+    "startPage": 424,
+    "pdfPage": 421,
+    "paragraphCount": 8,
+    "lugatCount": 0
+   },
+   {
+    "id": 3,
+    "title": "Şahıs Bilgileri",
+    "startPage": 427,
+    "pdfPage": 424,
+    "paragraphCount": 56,
+    "lugatCount": 0
+   },
+   {
+    "id": 4,
+    "title": "Yer Bilgileri",
+    "startPage": 437,
+    "pdfPage": 434,
+    "paragraphCount": 28,
+    "lugatCount": 0
+   },
+   {
+    "id": 5,
+    "title": "Arapça Metin İndeksi",
+    "startPage": 441,
+    "pdfPage": 438,
+    "paragraphCount": 639,
+    "lugatCount": 0
+   },
+   {
+    "id": 6,
+    "title": "Hadis İndeksi",
+    "startPage": 457,
+    "pdfPage": 454,
+    "paragraphCount": 10,
+    "lugatCount": 0
+   },
+   {
+    "id": 7,
+    "title": "Şahıs İndeksi",
+    "startPage": 459,
+    "pdfPage": 456,
+    "paragraphCount": 31,
+    "lugatCount": 0
+   },
+   {
+    "id": 8,
+    "title": "Yer İndeksi",
+    "startPage": 461,
+    "pdfPage": 458,
+    "paragraphCount": 4,
+    "lugatCount": 0
+   },
+   {
+    "id": 9,
+    "title": "Genel İndeks",
+    "startPage": 463,
+    "pdfPage": 460,
+    "paragraphCount": 1,
+    "lugatCount": 0
+   },
+   {
+    "id": 10,
+    "title": "Kronolojik Bilgiler",
+    "startPage": 527,
+    "pdfPage": 524,
+    "paragraphCount": 3216,
+    "lugatCount": 4571
+   }
+  ]
+ },
+ "muhakemat": {
+  "slug": "muhakemat",
+  "bookTitle": "Muhakemat",
+  "pageCount": 331,
+  "wordCount": 59203,
+  "lugatCount": 4361,
+  "sections": [
+   {
+    "id": 1,
+    "title": "Giriş",
+    "startPage": 1,
+    "pdfPage": 1,
+    "paragraphCount": 1977,
+    "lugatCount": 4325
+   },
+   {
+    "id": 2,
+    "title": "Ekler",
+    "startPage": 250,
+    "pdfPage": 246,
+    "paragraphCount": 11,
+    "lugatCount": 36
+   },
+   {
+    "id": 3,
+    "title": "Şahıs Bilgileri",
+    "startPage": 253,
+    "pdfPage": 249,
+    "paragraphCount": 130,
+    "lugatCount": 0
+   },
+   {
+    "id": 4,
+    "title": "Yer Bilgileri",
+    "startPage": 277,
+    "pdfPage": 273,
+    "paragraphCount": 19,
+    "lugatCount": 0
+   },
+   {
+    "id": 5,
+    "title": "Arapça Metin İndeksi",
+    "startPage": 281,
+    "pdfPage": 277,
+    "paragraphCount": 391,
+    "lugatCount": 0
+   },
+   {
+    "id": 6,
+    "title": "Şahıs İndeksi",
+    "startPage": 288,
+    "pdfPage": 288,
+    "paragraphCount": 94,
+    "lugatCount": 0
+   },
+   {
+    "id": 7,
+    "title": "Yer İndeksi",
+    "startPage": 296,
+    "pdfPage": 292,
+    "paragraphCount": 11,
+    "lugatCount": 0
+   },
+   {
+    "id": 8,
+    "title": "Kronolojik Bilgiler",
+    "startPage": 316,
+    "pdfPage": 316,
+    "paragraphCount": 850,
+    "lugatCount": 0
+   }
+  ]
+ },
+ "sikke-i-tasdik-i-gaybi": {
+  "slug": "sikke-i-tasdik-i-gaybi",
+  "bookTitle": "Sikke-i Tasdik-i Gaybî",
+  "pageCount": 526,
+  "wordCount": 104476,
+  "lugatCount": 9744,
+  "sections": [
+   {
+    "id": 1,
+    "title": "Giriş",
+    "startPage": 7,
+    "pdfPage": 3,
+    "paragraphCount": 52,
+    "lugatCount": 0
+   },
+   {
+    "id": 2,
+    "title": "Parlak Fıkralar",
+    "startPage": 12,
+    "pdfPage": 8,
+    "paragraphCount": 189,
+    "lugatCount": 705
+   },
+   {
+    "id": 3,
+    "title": "Mühim Parçalar",
+    "startPage": 49,
+    "pdfPage": 45,
+    "paragraphCount": 284,
+    "lugatCount": 1107
+   },
+   {
+    "id": 4,
+    "title": "Birinci Şua",
+    "startPage": 109,
+    "pdfPage": 105,
+    "paragraphCount": 315,
+    "lugatCount": 904
+   },
+   {
+    "id": 5,
+    "title": "Sekizinci Şua",
+    "startPage": 166,
+    "pdfPage": 162,
+    "paragraphCount": 143,
+    "lugatCount": 644
+   },
+   {
+    "id": 6,
+    "title": "Otuz Birinci Lem’a",
+    "startPage": 202,
+    "pdfPage": 198,
+    "paragraphCount": 18,
+    "lugatCount": 74
+   },
+   {
+    "id": 7,
+    "title": "Sekizinci Lem’a",
+    "startPage": 205,
+    "pdfPage": 201,
+    "paragraphCount": 192,
+    "lugatCount": 699
+   },
+   {
+    "id": 8,
+    "title": "Güzel Mektuplar",
+    "startPage": 241,
+    "pdfPage": 240,
+    "paragraphCount": 9,
+    "lugatCount": 35
+   },
+   {
+    "id": 9,
+    "title": "Parlak Fıkralar",
+    "startPage": 242,
+    "pdfPage": 241,
+    "paragraphCount": 4,
+    "lugatCount": 32
+   },
+   {
+    "id": 10,
+    "title": "Güzel Mektuplar",
+    "startPage": 243,
+    "pdfPage": 242,
+    "paragraphCount": 7,
+    "lugatCount": 24
+   },
+   {
+    "id": 11,
+    "title": "Parlak Fıkralar",
+    "startPage": 244,
+    "pdfPage": 243,
+    "paragraphCount": 3,
+    "lugatCount": 33
+   },
+   {
+    "id": 12,
+    "title": "Güzel Mektuplar",
+    "startPage": 245,
+    "pdfPage": 244,
+    "paragraphCount": 15,
+    "lugatCount": 27
+   },
+   {
+    "id": 13,
+    "title": "Parlak Fıkralar",
+    "startPage": 246,
+    "pdfPage": 245,
+    "paragraphCount": 6,
+    "lugatCount": 47
+   },
+   {
+    "id": 14,
+    "title": "Güzel Mektuplar",
+    "startPage": 247,
+    "pdfPage": 246,
+    "paragraphCount": 8,
+    "lugatCount": 33
+   },
+   {
+    "id": 15,
+    "title": "Parlak Fıkralar",
+    "startPage": 248,
+    "pdfPage": 247,
+    "paragraphCount": 8,
+    "lugatCount": 32
+   },
+   {
+    "id": 16,
+    "title": "Güzel Mektuplar",
+    "startPage": 249,
+    "pdfPage": 248,
+    "paragraphCount": 5,
+    "lugatCount": 46
+   },
+   {
+    "id": 17,
+    "title": "Parlak Fıkralar",
+    "startPage": 250,
+    "pdfPage": 249,
+    "paragraphCount": 6,
+    "lugatCount": 47
+   },
+   {
+    "id": 18,
+    "title": "Güzel Mektuplar",
+    "startPage": 251,
+    "pdfPage": 250,
+    "paragraphCount": 7,
+    "lugatCount": 42
+   },
+   {
+    "id": 19,
+    "title": "Parlak Fıkralar",
+    "startPage": 252,
+    "pdfPage": 251,
+    "paragraphCount": 3,
+    "lugatCount": 49
+   },
+   {
+    "id": 20,
+    "title": "Güzel Mektuplar",
+    "startPage": 253,
+    "pdfPage": 252,
+    "paragraphCount": 7,
+    "lugatCount": 37
+   },
+   {
+    "id": 21,
+    "title": "Parlak Fıkralar",
+    "startPage": 254,
+    "pdfPage": 253,
+    "paragraphCount": 3,
+    "lugatCount": 38
+   },
+   {
+    "id": 22,
+    "title": "Güzel Mektuplar",
+    "startPage": 255,
+    "pdfPage": 254,
+    "paragraphCount": 7,
+    "lugatCount": 41
+   },
+   {
+    "id": 23,
+    "title": "Parlak Fıkralar",
+    "startPage": 256,
+    "pdfPage": 255,
+    "paragraphCount": 7,
+    "lugatCount": 24
+   },
+   {
+    "id": 24,
+    "title": "Güzel Mektuplar",
+    "startPage": 257,
+    "pdfPage": 256,
+    "paragraphCount": 3,
+    "lugatCount": 37
+   },
+   {
+    "id": 25,
+    "title": "Parlak Fıkralar",
+    "startPage": 258,
+    "pdfPage": 257,
+    "paragraphCount": 9,
+    "lugatCount": 31
+   },
+   {
+    "id": 26,
+    "title": "Güzel Mektuplar",
+    "startPage": 259,
+    "pdfPage": 258,
+    "paragraphCount": 4,
+    "lugatCount": 49
+   },
+   {
+    "id": 27,
+    "title": "Parlak Fıkralar",
+    "startPage": 260,
+    "pdfPage": 259,
+    "paragraphCount": 10,
+    "lugatCount": 33
+   },
+   {
+    "id": 28,
+    "title": "Güzel Mektuplar",
+    "startPage": 261,
+    "pdfPage": 260,
+    "paragraphCount": 8,
+    "lugatCount": 35
+   },
+   {
+    "id": 29,
+    "title": "Parlak Fıkralar",
+    "startPage": 262,
+    "pdfPage": 261,
+    "paragraphCount": 7,
+    "lugatCount": 47
+   },
+   {
+    "id": 30,
+    "title": "Güzel Mektuplar",
+    "startPage": 263,
+    "pdfPage": 262,
+    "paragraphCount": 5,
+    "lugatCount": 41
+   },
+   {
+    "id": 31,
+    "title": "Parlak Fıkralar",
+    "startPage": 264,
+    "pdfPage": 263,
+    "paragraphCount": 6,
+    "lugatCount": 37
+   },
+   {
+    "id": 32,
+    "title": "Güzel Mektuplar",
+    "startPage": 265,
+    "pdfPage": 264,
+    "paragraphCount": 8,
+    "lugatCount": 40
+   },
+   {
+    "id": 33,
+    "title": "Parlak Fıkralar",
+    "startPage": 266,
+    "pdfPage": 265,
+    "paragraphCount": 8,
+    "lugatCount": 34
+   },
+   {
+    "id": 34,
+    "title": "Güzel Mektuplar",
+    "startPage": 267,
+    "pdfPage": 266,
+    "paragraphCount": 7,
+    "lugatCount": 43
+   },
+   {
+    "id": 35,
+    "title": "Parlak Fıkralar",
+    "startPage": 268,
+    "pdfPage": 267,
+    "paragraphCount": 3,
+    "lugatCount": 42
+   },
+   {
+    "id": 36,
+    "title": "Güzel Mektuplar",
+    "startPage": 269,
+    "pdfPage": 268,
+    "paragraphCount": 8,
+    "lugatCount": 46
+   },
+   {
+    "id": 37,
+    "title": "Parlak Fıkralar",
+    "startPage": 270,
+    "pdfPage": 269,
+    "paragraphCount": 6,
+    "lugatCount": 39
+   },
+   {
+    "id": 38,
+    "title": "Güzel Mektuplar",
+    "startPage": 271,
+    "pdfPage": 270,
+    "paragraphCount": 8,
+    "lugatCount": 37
+   },
+   {
+    "id": 39,
+    "title": "Parlak Fıkralar",
+    "startPage": 272,
+    "pdfPage": 271,
+    "paragraphCount": 6,
+    "lugatCount": 49
+   },
+   {
+    "id": 40,
+    "title": "Güzel Mektuplar",
+    "startPage": 273,
+    "pdfPage": 272,
+    "paragraphCount": 5,
+    "lugatCount": 50
+   },
+   {
+    "id": 41,
+    "title": "Parlak Fıkralar",
+    "startPage": 274,
+    "pdfPage": 273,
+    "paragraphCount": 7,
+    "lugatCount": 55
+   },
+   {
+    "id": 42,
+    "title": "Güzel Mektuplar",
+    "startPage": 275,
+    "pdfPage": 274,
+    "paragraphCount": 4,
+    "lugatCount": 43
+   },
+   {
+    "id": 43,
+    "title": "Parlak Fıkralar",
+    "startPage": 276,
+    "pdfPage": 275,
+    "paragraphCount": 3,
+    "lugatCount": 33
+   },
+   {
+    "id": 44,
+    "title": "Güzel Mektuplar",
+    "startPage": 277,
+    "pdfPage": 276,
+    "paragraphCount": 5,
+    "lugatCount": 53
+   },
+   {
+    "id": 45,
+    "title": "Parlak Fıkralar",
+    "startPage": 278,
+    "pdfPage": 277,
+    "paragraphCount": 4,
+    "lugatCount": 32
+   },
+   {
+    "id": 46,
+    "title": "Güzel Mektuplar",
+    "startPage": 279,
+    "pdfPage": 278,
+    "paragraphCount": 3,
+    "lugatCount": 47
+   },
+   {
+    "id": 47,
+    "title": "Parlak Fıkralar",
+    "startPage": 280,
+    "pdfPage": 279,
+    "paragraphCount": 9,
+    "lugatCount": 38
+   },
+   {
+    "id": 48,
+    "title": "Güzel Mektuplar",
+    "startPage": 281,
+    "pdfPage": 280,
+    "paragraphCount": 4,
+    "lugatCount": 49
+   },
+   {
+    "id": 49,
+    "title": "Parlak Fıkralar",
+    "startPage": 282,
+    "pdfPage": 281,
+    "paragraphCount": 3,
+    "lugatCount": 21
+   },
+   {
+    "id": 50,
+    "title": "Güzel Mektuplar",
+    "startPage": 283,
+    "pdfPage": 282,
+    "paragraphCount": 6,
+    "lugatCount": 42
+   },
+   {
+    "id": 51,
+    "title": "Parlak Fıkralar",
+    "startPage": 284,
+    "pdfPage": 283,
+    "paragraphCount": 4,
+    "lugatCount": 29
+   },
+   {
+    "id": 52,
+    "title": "Güzel Mektuplar",
+    "startPage": 285,
+    "pdfPage": 284,
+    "paragraphCount": 5,
+    "lugatCount": 41
+   },
+   {
+    "id": 53,
+    "title": "Parlak Fıkralar",
+    "startPage": 286,
+    "pdfPage": 285,
+    "paragraphCount": 5,
+    "lugatCount": 53
+   },
+   {
+    "id": 54,
+    "title": "Güzel Mektuplar",
+    "startPage": 287,
+    "pdfPage": 286,
+    "paragraphCount": 5,
+    "lugatCount": 45
+   },
+   {
+    "id": 55,
+    "title": "Parlak Fıkralar",
+    "startPage": 288,
+    "pdfPage": 287,
+    "paragraphCount": 8,
+    "lugatCount": 32
+   },
+   {
+    "id": 56,
+    "title": "Güzel Mektuplar",
+    "startPage": 289,
+    "pdfPage": 288,
+    "paragraphCount": 6,
+    "lugatCount": 26
+   },
+   {
+    "id": 57,
+    "title": "Parlak Fıkralar",
+    "startPage": 290,
+    "pdfPage": 289,
+    "paragraphCount": 6,
+    "lugatCount": 45
+   },
+   {
+    "id": 58,
+    "title": "Güzel Mektuplar",
+    "startPage": 291,
+    "pdfPage": 290,
+    "paragraphCount": 5,
+    "lugatCount": 31
+   },
+   {
+    "id": 59,
+    "title": "Parlak Fıkralar",
+    "startPage": 292,
+    "pdfPage": 291,
+    "paragraphCount": 8,
+    "lugatCount": 51
+   },
+   {
+    "id": 60,
+    "title": "Güzel Mektuplar",
+    "startPage": 293,
+    "pdfPage": 292,
+    "paragraphCount": 8,
+    "lugatCount": 33
+   },
+   {
+    "id": 61,
+    "title": "Parlak Fıkralar",
+    "startPage": 294,
+    "pdfPage": 293,
+    "paragraphCount": 4,
+    "lugatCount": 28
+   },
+   {
+    "id": 62,
+    "title": "Güzel Mektuplar",
+    "startPage": 295,
+    "pdfPage": 294,
+    "paragraphCount": 8,
+    "lugatCount": 23
+   },
+   {
+    "id": 63,
+    "title": "Parlak Fıkralar",
+    "startPage": 296,
+    "pdfPage": 295,
+    "paragraphCount": 5,
+    "lugatCount": 32
+   },
+   {
+    "id": 64,
+    "title": "Güzel Mektuplar",
+    "startPage": 297,
+    "pdfPage": 296,
+    "paragraphCount": 4,
+    "lugatCount": 26
+   },
+   {
+    "id": 65,
+    "title": "Parlak Fıkralar",
+    "startPage": 298,
+    "pdfPage": 297,
+    "paragraphCount": 6,
+    "lugatCount": 26
+   },
+   {
+    "id": 66,
+    "title": "Güzel Mektuplar",
+    "startPage": 299,
+    "pdfPage": 298,
+    "paragraphCount": 5,
+    "lugatCount": 42
+   },
+   {
+    "id": 67,
+    "title": "Parlak Fıkralar",
+    "startPage": 300,
+    "pdfPage": 299,
+    "paragraphCount": 6,
+    "lugatCount": 35
+   },
+   {
+    "id": 68,
+    "title": "Güzel Mektuplar",
+    "startPage": 301,
+    "pdfPage": 300,
+    "paragraphCount": 8,
+    "lugatCount": 24
+   },
+   {
+    "id": 69,
+    "title": "Parlak Fıkralar",
+    "startPage": 302,
+    "pdfPage": 301,
+    "paragraphCount": 5,
+    "lugatCount": 34
+   },
+   {
+    "id": 70,
+    "title": "Güzel Mektuplar",
+    "startPage": 303,
+    "pdfPage": 302,
+    "paragraphCount": 9,
+    "lugatCount": 31
+   },
+   {
+    "id": 71,
+    "title": "Parlak Fıkralar",
+    "startPage": 304,
+    "pdfPage": 303,
+    "paragraphCount": 5,
+    "lugatCount": 32
+   },
+   {
+    "id": 72,
+    "title": "Güzel Mektuplar",
+    "startPage": 305,
+    "pdfPage": 304,
+    "paragraphCount": 7,
+    "lugatCount": 35
+   },
+   {
+    "id": 73,
+    "title": "Parlak Fıkralar",
+    "startPage": 306,
+    "pdfPage": 305,
+    "paragraphCount": 2,
+    "lugatCount": 25
+   },
+   {
+    "id": 74,
+    "title": "Güzel Mektuplar",
+    "startPage": 307,
+    "pdfPage": 306,
+    "paragraphCount": 3,
+    "lugatCount": 26
+   },
+   {
+    "id": 75,
+    "title": "Parlak Fıkralar",
+    "startPage": 308,
+    "pdfPage": 307,
+    "paragraphCount": 10,
+    "lugatCount": 31
+   },
+   {
+    "id": 76,
+    "title": "Güzel Mektuplar",
+    "startPage": 309,
+    "pdfPage": 308,
+    "paragraphCount": 3,
+    "lugatCount": 30
+   },
+   {
+    "id": 77,
+    "title": "Parlak Fıkralar",
+    "startPage": 310,
+    "pdfPage": 309,
+    "paragraphCount": 3,
+    "lugatCount": 32
+   },
+   {
+    "id": 78,
+    "title": "Güzel Mektuplar",
+    "startPage": 311,
+    "pdfPage": 310,
+    "paragraphCount": 3,
+    "lugatCount": 32
+   },
+   {
+    "id": 79,
+    "title": "Parlak Fıkralar",
+    "startPage": 312,
+    "pdfPage": 311,
+    "paragraphCount": 6,
+    "lugatCount": 34
+   },
+   {
+    "id": 80,
+    "title": "Güzel Mektuplar",
+    "startPage": 313,
+    "pdfPage": 312,
+    "paragraphCount": 2,
+    "lugatCount": 31
+   },
+   {
+    "id": 81,
+    "title": "Parlak Fıkralar",
+    "startPage": 314,
+    "pdfPage": 313,
+    "paragraphCount": 2,
+    "lugatCount": 13
+   },
+   {
+    "id": 82,
+    "title": "Güzel Mektuplar",
+    "startPage": 315,
+    "pdfPage": 314,
+    "paragraphCount": 6,
+    "lugatCount": 21
+   },
+   {
+    "id": 83,
+    "title": "Parlak Fıkralar",
+    "startPage": 316,
+    "pdfPage": 315,
+    "paragraphCount": 5,
+    "lugatCount": 42
+   },
+   {
+    "id": 84,
+    "title": "Güzel Mektuplar",
+    "startPage": 317,
+    "pdfPage": 316,
+    "paragraphCount": 3,
+    "lugatCount": 51
+   },
+   {
+    "id": 85,
+    "title": "Parlak Fıkralar",
+    "startPage": 318,
+    "pdfPage": 317,
+    "paragraphCount": 3,
+    "lugatCount": 40
+   },
+   {
+    "id": 86,
+    "title": "Güzel Mektuplar",
+    "startPage": 319,
+    "pdfPage": 318,
+    "paragraphCount": 6,
+    "lugatCount": 36
+   },
+   {
+    "id": 87,
+    "title": "Parlak Fıkralar",
+    "startPage": 320,
+    "pdfPage": 319,
+    "paragraphCount": 7,
+    "lugatCount": 43
+   },
+   {
+    "id": 88,
+    "title": "Güzel Mektuplar",
+    "startPage": 321,
+    "pdfPage": 320,
+    "paragraphCount": 8,
+    "lugatCount": 31
+   },
+   {
+    "id": 89,
+    "title": "Parlak Fıkralar",
+    "startPage": 322,
+    "pdfPage": 321,
+    "paragraphCount": 4,
+    "lugatCount": 38
+   },
+   {
+    "id": 90,
+    "title": "Güzel Mektuplar",
+    "startPage": 323,
+    "pdfPage": 322,
+    "paragraphCount": 2,
+    "lugatCount": 29
+   },
+   {
+    "id": 91,
+    "title": "Parlak Fıkralar",
+    "startPage": 324,
+    "pdfPage": 323,
+    "paragraphCount": 2,
+    "lugatCount": 46
+   },
+   {
+    "id": 92,
+    "title": "Güzel Mektuplar",
+    "startPage": 325,
+    "pdfPage": 324,
+    "paragraphCount": 2,
+    "lugatCount": 26
+   },
+   {
+    "id": 93,
+    "title": "Parlak Fıkralar",
+    "startPage": 326,
+    "pdfPage": 325,
+    "paragraphCount": 2,
+    "lugatCount": 33
+   },
+   {
+    "id": 94,
+    "title": "Güzel Mektuplar",
+    "startPage": 327,
+    "pdfPage": 326,
+    "paragraphCount": 4,
+    "lugatCount": 30
+   },
+   {
+    "id": 95,
+    "title": "Parlak Fıkralar",
+    "startPage": 328,
+    "pdfPage": 327,
+    "paragraphCount": 1,
+    "lugatCount": 32
+   },
+   {
+    "id": 96,
+    "title": "Güzel Mektuplar",
+    "startPage": 329,
+    "pdfPage": 328,
+    "paragraphCount": 1,
+    "lugatCount": 31
+   },
+   {
+    "id": 97,
+    "title": "Parlak Fıkralar",
+    "startPage": 330,
+    "pdfPage": 329,
+    "paragraphCount": 8,
+    "lugatCount": 27
+   },
+   {
+    "id": 98,
+    "title": "Güzel Mektuplar",
+    "startPage": 331,
+    "pdfPage": 330,
+    "paragraphCount": 13,
+    "lugatCount": 40
+   },
+   {
+    "id": 99,
+    "title": "Parlak Fıkralar",
+    "startPage": 332,
+    "pdfPage": 331,
+    "paragraphCount": 12,
+    "lugatCount": 24
+   },
+   {
+    "id": 100,
+    "title": "Güzel Mektuplar",
+    "startPage": 333,
+    "pdfPage": 332,
+    "paragraphCount": 5,
+    "lugatCount": 27
+   },
+   {
+    "id": 101,
+    "title": "Parlak Fıkralar",
+    "startPage": 334,
+    "pdfPage": 333,
+    "paragraphCount": 4,
+    "lugatCount": 42
+   },
+   {
+    "id": 102,
+    "title": "Güzel Mektuplar",
+    "startPage": 335,
+    "pdfPage": 334,
+    "paragraphCount": 3,
+    "lugatCount": 41
+   },
+   {
+    "id": 103,
+    "title": "Parlak Fıkralar",
+    "startPage": 336,
+    "pdfPage": 335,
+    "paragraphCount": 7,
+    "lugatCount": 40
+   },
+   {
+    "id": 104,
+    "title": "Güzel Mektuplar",
+    "startPage": 337,
+    "pdfPage": 336,
+    "paragraphCount": 3,
+    "lugatCount": 47
+   },
+   {
+    "id": 105,
+    "title": "Parlak Fıkralar",
+    "startPage": 338,
+    "pdfPage": 337,
+    "paragraphCount": 5,
+    "lugatCount": 38
+   },
+   {
+    "id": 106,
+    "title": "Güzel Mektuplar",
+    "startPage": 339,
+    "pdfPage": 338,
+    "paragraphCount": 3,
+    "lugatCount": 47
+   },
+   {
+    "id": 107,
+    "title": "Parlak Fıkralar",
+    "startPage": 340,
+    "pdfPage": 339,
+    "paragraphCount": 5,
+    "lugatCount": 41
+   },
+   {
+    "id": 108,
+    "title": "Güzel Mektuplar",
+    "startPage": 341,
+    "pdfPage": 340,
+    "paragraphCount": 4,
+    "lugatCount": 45
+   },
+   {
+    "id": 109,
+    "title": "Parlak Fıkralar",
+    "startPage": 342,
+    "pdfPage": 341,
+    "paragraphCount": 4,
+    "lugatCount": 49
+   },
+   {
+    "id": 110,
+    "title": "Güzel Mektuplar",
+    "startPage": 343,
+    "pdfPage": 342,
+    "paragraphCount": 4,
+    "lugatCount": 44
+   },
+   {
+    "id": 111,
+    "title": "Parlak Fıkralar",
+    "startPage": 344,
+    "pdfPage": 343,
+    "paragraphCount": 4,
+    "lugatCount": 38
+   },
+   {
+    "id": 112,
+    "title": "Güzel Mektuplar",
+    "startPage": 345,
+    "pdfPage": 344,
+    "paragraphCount": 2,
+    "lugatCount": 52
+   },
+   {
+    "id": 113,
+    "title": "Parlak Fıkralar",
+    "startPage": 346,
+    "pdfPage": 345,
+    "paragraphCount": 5,
+    "lugatCount": 43
+   },
+   {
+    "id": 114,
+    "title": "Güzel Mektuplar",
+    "startPage": 347,
+    "pdfPage": 346,
+    "paragraphCount": 2,
+    "lugatCount": 25
+   },
+   {
+    "id": 115,
+    "title": "Parlak Fıkralar",
+    "startPage": 348,
+    "pdfPage": 347,
+    "paragraphCount": 9,
+    "lugatCount": 50
+   },
+   {
+    "id": 116,
+    "title": "Güzel Mektuplar",
+    "startPage": 349,
+    "pdfPage": 348,
+    "paragraphCount": 8,
+    "lugatCount": 38
+   },
+   {
+    "id": 117,
+    "title": "Parlak Fıkralar",
+    "startPage": 350,
+    "pdfPage": 349,
+    "paragraphCount": 7,
+    "lugatCount": 21
+   },
+   {
+    "id": 118,
+    "title": "Güzel Mektuplar",
+    "startPage": 351,
+    "pdfPage": 350,
+    "paragraphCount": 4,
+    "lugatCount": 32
+   },
+   {
+    "id": 119,
+    "title": "Parlak Fıkralar",
+    "startPage": 352,
+    "pdfPage": 351,
+    "paragraphCount": 14,
+    "lugatCount": 24
+   },
+   {
+    "id": 120,
+    "title": "Güzel Mektuplar",
+    "startPage": 353,
+    "pdfPage": 352,
+    "paragraphCount": 21,
+    "lugatCount": 21
+   },
+   {
+    "id": 121,
+    "title": "Parlak Fıkralar",
+    "startPage": 354,
+    "pdfPage": 353,
+    "paragraphCount": 23,
+    "lugatCount": 27
+   },
+   {
+    "id": 122,
+    "title": "Güzel Mektuplar",
+    "startPage": 355,
+    "pdfPage": 354,
+    "paragraphCount": 22,
+    "lugatCount": 27
+   },
+   {
+    "id": 123,
+    "title": "Parlak Fıkralar",
+    "startPage": 356,
+    "pdfPage": 355,
+    "paragraphCount": 22,
+    "lugatCount": 24
+   },
+   {
+    "id": 124,
+    "title": "Güzel Mektuplar",
+    "startPage": 357,
+    "pdfPage": 356,
+    "paragraphCount": 21,
+    "lugatCount": 14
+   },
+   {
+    "id": 125,
+    "title": "Parlak Fıkralar",
+    "startPage": 358,
+    "pdfPage": 357,
+    "paragraphCount": 22,
+    "lugatCount": 14
+   },
+   {
+    "id": 126,
+    "title": "Güzel Mektuplar",
+    "startPage": 359,
+    "pdfPage": 358,
+    "paragraphCount": 22,
+    "lugatCount": 21
+   },
+   {
+    "id": 127,
+    "title": "Parlak Fıkralar",
+    "startPage": 360,
+    "pdfPage": 359,
+    "paragraphCount": 6,
+    "lugatCount": 48
+   },
+   {
+    "id": 128,
+    "title": "Güzel Mektuplar",
+    "startPage": 361,
+    "pdfPage": 360,
+    "paragraphCount": 5,
+    "lugatCount": 42
+   },
+   {
+    "id": 129,
+    "title": "Parlak Fıkralar",
+    "startPage": 362,
+    "pdfPage": 361,
+    "paragraphCount": 5,
+    "lugatCount": 48
+   },
+   {
+    "id": 130,
+    "title": "Güzel Mektuplar",
+    "startPage": 363,
+    "pdfPage": 362,
+    "paragraphCount": 11,
+    "lugatCount": 43
+   },
+   {
+    "id": 131,
+    "title": "Parlak Fıkralar",
+    "startPage": 364,
+    "pdfPage": 363,
+    "paragraphCount": 6,
+    "lugatCount": 28
+   },
+   {
+    "id": 132,
+    "title": "Güzel Mektuplar",
+    "startPage": 365,
+    "pdfPage": 364,
+    "paragraphCount": 7,
+    "lugatCount": 29
+   },
+   {
+    "id": 133,
+    "title": "Parlak Fıkralar",
+    "startPage": 366,
+    "pdfPage": 365,
+    "paragraphCount": 5,
+    "lugatCount": 35
+   },
+   {
+    "id": 134,
+    "title": "Güzel Mektuplar",
+    "startPage": 367,
+    "pdfPage": 366,
+    "paragraphCount": 5,
+    "lugatCount": 50
+   },
+   {
+    "id": 135,
+    "title": "Parlak Fıkralar",
+    "startPage": 368,
+    "pdfPage": 367,
+    "paragraphCount": 2,
+    "lugatCount": 35
+   },
+   {
+    "id": 136,
+    "title": "Güzel Mektuplar",
+    "startPage": 369,
+    "pdfPage": 368,
+    "paragraphCount": 4,
+    "lugatCount": 47
+   },
+   {
+    "id": 137,
+    "title": "Parlak Fıkralar",
+    "startPage": 370,
+    "pdfPage": 369,
+    "paragraphCount": 6,
+    "lugatCount": 33
+   },
+   {
+    "id": 138,
+    "title": "Güzel Mektuplar",
+    "startPage": 371,
+    "pdfPage": 370,
+    "paragraphCount": 8,
+    "lugatCount": 14
+   },
+   {
+    "id": 139,
+    "title": "Parlak Fıkralar",
+    "startPage": 372,
+    "pdfPage": 371,
+    "paragraphCount": 5,
+    "lugatCount": 51
+   },
+   {
+    "id": 140,
+    "title": "Güzel Mektuplar",
+    "startPage": 373,
+    "pdfPage": 372,
+    "paragraphCount": 3,
+    "lugatCount": 60
+   },
+   {
+    "id": 141,
+    "title": "Parlak Fıkralar",
+    "startPage": 374,
+    "pdfPage": 373,
+    "paragraphCount": 5,
+    "lugatCount": 44
+   },
+   {
+    "id": 142,
+    "title": "Güzel Mektuplar",
+    "startPage": 375,
+    "pdfPage": 374,
+    "paragraphCount": 7,
+    "lugatCount": 32
+   },
+   {
+    "id": 143,
+    "title": "Parlak Fıkralar",
+    "startPage": 376,
+    "pdfPage": 375,
+    "paragraphCount": 2,
+    "lugatCount": 45
+   },
+   {
+    "id": 144,
+    "title": "Güzel Mektuplar",
+    "startPage": 377,
+    "pdfPage": 376,
+    "paragraphCount": 6,
+    "lugatCount": 30
+   },
+   {
+    "id": 145,
+    "title": "Parlak Fıkralar",
+    "startPage": 378,
+    "pdfPage": 377,
+    "paragraphCount": 3,
+    "lugatCount": 53
+   },
+   {
+    "id": 146,
+    "title": "Güzel Mektuplar",
+    "startPage": 379,
+    "pdfPage": 378,
+    "paragraphCount": 5,
+    "lugatCount": 52
+   },
+   {
+    "id": 147,
+    "title": "Parlak Fıkralar",
+    "startPage": 380,
+    "pdfPage": 379,
+    "paragraphCount": 9,
+    "lugatCount": 45
+   },
+   {
+    "id": 148,
+    "title": "Güzel Mektuplar",
+    "startPage": 381,
+    "pdfPage": 380,
+    "paragraphCount": 3,
+    "lugatCount": 53
+   },
+   {
+    "id": 149,
+    "title": "Parlak Fıkralar",
+    "startPage": 382,
+    "pdfPage": 381,
+    "paragraphCount": 3,
+    "lugatCount": 49
+   },
+   {
+    "id": 150,
+    "title": "Güzel Mektuplar",
+    "startPage": 383,
+    "pdfPage": 382,
+    "paragraphCount": 8,
+    "lugatCount": 49
+   },
+   {
+    "id": 151,
+    "title": "Parlak Fıkralar",
+    "startPage": 384,
+    "pdfPage": 383,
+    "paragraphCount": 15,
+    "lugatCount": 37
+   },
+   {
+    "id": 152,
+    "title": "Güzel Mektuplar",
+    "startPage": 385,
+    "pdfPage": 384,
+    "paragraphCount": 10,
+    "lugatCount": 39
+   },
+   {
+    "id": 153,
+    "title": "Parlak Fıkralar",
+    "startPage": 386,
+    "pdfPage": 385,
+    "paragraphCount": 2,
+    "lugatCount": 44
+   },
+   {
+    "id": 154,
+    "title": "Güzel Mektuplar",
+    "startPage": 387,
+    "pdfPage": 386,
+    "paragraphCount": 8,
+    "lugatCount": 16
+   },
+   {
+    "id": 155,
+    "title": "Parlak Fıkralar",
+    "startPage": 388,
+    "pdfPage": 387,
+    "paragraphCount": 8,
+    "lugatCount": 46
+   },
+   {
+    "id": 156,
+    "title": "Güzel Mektuplar",
+    "startPage": 389,
+    "pdfPage": 388,
+    "paragraphCount": 4,
+    "lugatCount": 48
+   },
+   {
+    "id": 157,
+    "title": "Parlak Fıkralar",
+    "startPage": 390,
+    "pdfPage": 389,
+    "paragraphCount": 6,
+    "lugatCount": 35
+   },
+   {
+    "id": 158,
+    "title": "Güzel Mektuplar",
+    "startPage": 391,
+    "pdfPage": 390,
+    "paragraphCount": 4,
+    "lugatCount": 51
+   },
+   {
+    "id": 159,
+    "title": "Parlak Fıkralar",
+    "startPage": 392,
+    "pdfPage": 391,
+    "paragraphCount": 3,
+    "lugatCount": 4
+   },
+   {
+    "id": 160,
+    "title": "Güzel Mektuplar",
+    "startPage": 393,
+    "pdfPage": 392,
+    "paragraphCount": 6,
+    "lugatCount": 26
+   },
+   {
+    "id": 161,
+    "title": "Ekler",
+    "startPage": 395,
+    "pdfPage": 394,
+    "paragraphCount": 8,
+    "lugatCount": 0
+   },
+   {
+    "id": 162,
+    "title": "Şahıs Bilgileri",
+    "startPage": 397,
+    "pdfPage": 396,
+    "paragraphCount": 143,
+    "lugatCount": 0
+   },
+   {
+    "id": 163,
+    "title": "Yer Bilgileri",
+    "startPage": 427,
+    "pdfPage": 426,
+    "paragraphCount": 70,
+    "lugatCount": 0
+   },
+   {
+    "id": 164,
+    "title": "Arapça Metin İndeksi",
+    "startPage": 441,
+    "pdfPage": 440,
+    "paragraphCount": 1010,
+    "lugatCount": 0
+   },
+   {
+    "id": 165,
+    "title": "Hadis İndeksi",
+    "startPage": 465,
+    "pdfPage": 464,
+    "paragraphCount": 23,
+    "lugatCount": 0
+   },
+   {
+    "id": 166,
+    "title": "Şahıs İndeksi",
+    "startPage": 467,
+    "pdfPage": 466,
+    "paragraphCount": 169,
+    "lugatCount": 0
+   },
+   {
+    "id": 167,
+    "title": "Yer İndeksi",
+    "startPage": 472,
+    "pdfPage": 471,
+    "paragraphCount": 40,
+    "lugatCount": 0
+   },
+   {
+    "id": 168,
+    "title": "Genel İndeks",
+    "startPage": 475,
+    "pdfPage": 474,
+    "paragraphCount": 1355,
+    "lugatCount": 0
+   },
+   {
+    "id": 169,
+    "title": "Kronolojik Bilgiler",
+    "startPage": 513,
+    "pdfPage": 512,
+    "paragraphCount": 850,
+    "lugatCount": 0
+   }
+  ]
+ },
+ "sualar": {
+  "slug": "sualar",
+  "bookTitle": "Şualar",
+  "pageCount": 1578,
+  "wordCount": 246586,
+  "lugatCount": 16743,
+  "sections": [
+   {
+    "id": 1,
+    "title": "Takdim",
+    "startPage": 9,
+    "pdfPage": 6,
+    "paragraphCount": 20,
+    "lugatCount": 0
+   },
+   {
+    "id": 2,
+    "title": "Biyografi",
+    "startPage": 11,
+    "pdfPage": 8,
+    "paragraphCount": 41,
+    "lugatCount": 0
+   },
+   {
+    "id": 3,
+    "title": "İkinci Şua",
+    "startPage": 15,
+    "pdfPage": 12,
+    "paragraphCount": 221,
+    "lugatCount": 1174
+   },
+   {
+    "id": 4,
+    "title": "Üçüncü Şua",
+    "startPage": 70,
+    "pdfPage": 67,
+    "paragraphCount": 136,
+    "lugatCount": 671
+   },
+   {
+    "id": 5,
+    "title": "Dördüncü Şua",
+    "startPage": 99,
+    "pdfPage": 96,
+    "paragraphCount": 205,
+    "lugatCount": 998
+   },
+   {
+    "id": 6,
+    "title": "Altıncı Şua",
+    "startPage": 156,
+    "pdfPage": 153,
+    "paragraphCount": 36,
+    "lugatCount": 216
+   },
+   {
+    "id": 7,
+    "title": "Yedinci Şua",
+    "startPage": 163,
+    "pdfPage": 160,
+    "paragraphCount": 495,
+    "lugatCount": 1898
+   },
+   {
+    "id": 8,
+    "title": "Dokuzuncu Şua",
+    "startPage": 284,
+    "pdfPage": 281,
+    "paragraphCount": 58,
+    "lugatCount": 546
+   },
+   {
+    "id": 9,
+    "title": "On Birinci Şua",
+    "startPage": 299,
+    "pdfPage": 299,
+    "paragraphCount": 457,
+    "lugatCount": 1996
+   },
+   {
+    "id": 10,
+    "title": "On İkinci Şua",
+    "startPage": 434,
+    "pdfPage": 432,
+    "paragraphCount": 170,
+    "lugatCount": 708
+   },
+   {
+    "id": 11,
+    "title": "On Üçüncü Şua",
+    "startPage": 466,
+    "pdfPage": 464,
+    "paragraphCount": 453,
+    "lugatCount": 1240
+   },
+   {
+    "id": 12,
+    "title": "On Dördüncü Şua",
+    "startPage": 546,
+    "pdfPage": 544,
+    "paragraphCount": 2109,
+    "lugatCount": 2876
+   },
+   {
+    "id": 13,
+    "title": "Beşinci Şua",
+    "startPage": 902,
+    "pdfPage": 900,
+    "paragraphCount": 167,
+    "lugatCount": 695
+   },
+   {
+    "id": 14,
+    "title": "On Beşinci Şua",
+    "startPage": 933,
+    "pdfPage": 931,
+    "paragraphCount": 459,
+    "lugatCount": 1867
+   },
+   {
+    "id": 15,
+    "title": "Birinci Şua",
+    "startPage": 1055,
+    "pdfPage": 1053,
+    "paragraphCount": 292,
+    "lugatCount": 860
+   },
+   {
+    "id": 16,
+    "title": "Sekizinci Şua",
+    "startPage": 1112,
+    "pdfPage": 1110,
+    "paragraphCount": 145,
+    "lugatCount": 642
+   },
+   {
+    "id": 17,
+    "title": "Yirmi Dokuzuncu Lem’a",
+    "startPage": 1147,
+    "pdfPage": 1145,
+    "paragraphCount": 91,
+    "lugatCount": 355
+   },
+   {
+    "id": 18,
+    "title": "Ekler",
+    "startPage": 1235,
+    "pdfPage": 1232,
+    "paragraphCount": 10,
+    "lugatCount": 0
+   },
+   {
+    "id": 19,
+    "title": "Telif Tarihçesi",
+    "startPage": 1236,
+    "pdfPage": 1233,
+    "paragraphCount": 5,
+    "lugatCount": 0
+   },
+   {
+    "id": 20,
+    "title": "Şahıs Bilgileri",
+    "startPage": 1237,
+    "pdfPage": 1234,
+    "paragraphCount": 212,
+    "lugatCount": 0
+   },
+   {
+    "id": 21,
+    "title": "Yer Bilgileri",
+    "startPage": 1285,
+    "pdfPage": 1282,
+    "paragraphCount": 106,
+    "lugatCount": 0
+   },
+   {
+    "id": 22,
+    "title": "Arapça Metin İndeksi",
+    "startPage": 1301,
+    "pdfPage": 1298,
+    "paragraphCount": 1824,
+    "lugatCount": 0
+   },
+   {
+    "id": 23,
+    "title": "Hadis İndeksi",
+    "startPage": 1341,
+    "pdfPage": 1338,
+    "paragraphCount": 149,
+    "lugatCount": 0
+   },
+   {
+    "id": 24,
+    "title": "Şahıs İndeksi",
+    "startPage": 1347,
+    "pdfPage": 1344,
+    "paragraphCount": 266,
+    "lugatCount": 0
+   },
+   {
+    "id": 25,
+    "title": "Yer İndeksi",
+    "startPage": 1355,
+    "pdfPage": 1352,
+    "paragraphCount": 88,
+    "lugatCount": 0
+   },
+   {
+    "id": 26,
+    "title": "Genel İndeks",
+    "startPage": 1357,
+    "pdfPage": 1354,
+    "paragraphCount": 1,
+    "lugatCount": 1
+   },
+   {
+    "id": 27,
+    "title": "Kronolojik Bilgiler",
+    "startPage": 1567,
+    "pdfPage": 1564,
+    "paragraphCount": 850,
+    "lugatCount": 0
+   }
+  ]
+ },
+ "tarihce-i-hayat": {
+  "slug": "tarihce-i-hayat",
+  "bookTitle": "Tarihçe-i Hayatı",
+  "pageCount": 1387,
+  "wordCount": 243853,
+  "lugatCount": 17435,
+  "sections": [
+   {
+    "id": 1,
+    "title": "Takdim",
+    "startPage": 3,
+    "pdfPage": 3,
+    "paragraphCount": 44,
+    "lugatCount": 0
+   },
+   {
+    "id": 2,
+    "title": "Biyografi",
+    "startPage": 5,
+    "pdfPage": 5,
+    "paragraphCount": 42,
+    "lugatCount": 0
+   },
+   {
+    "id": 3,
+    "title": "Ön Söz",
+    "startPage": 9,
+    "pdfPage": 9,
+    "paragraphCount": 161,
+    "lugatCount": 632
+   },
+   {
+    "id": 4,
+    "title": "Giriş",
+    "startPage": 35,
+    "pdfPage": 35,
+    "paragraphCount": 43,
+    "lugatCount": 507
+   },
+   {
+    "id": 5,
+    "title": "İlk Hayatı",
+    "startPage": 49,
+    "pdfPage": 49,
+    "paragraphCount": 914,
+    "lugatCount": 2933
+   },
+   {
+    "id": 6,
+    "title": "Barla Hayatı",
+    "startPage": 233,
+    "pdfPage": 233,
+    "paragraphCount": 455,
+    "lugatCount": 1739
+   },
+   {
+    "id": 7,
+    "title": "Eskişehir Hayatı",
+    "startPage": 331,
+    "pdfPage": 331,
+    "paragraphCount": 369,
+    "lugatCount": 1651
+   },
+   {
+    "id": 8,
+    "title": "Kastamonu Hayatı",
+    "startPage": 435,
+    "pdfPage": 435,
+    "paragraphCount": 654,
+    "lugatCount": 2762
+   },
+   {
+    "id": 9,
+    "title": "Denizli Hayatı",
+    "startPage": 607,
+    "pdfPage": 607,
+    "paragraphCount": 332,
+    "lugatCount": 1442
+   },
+   {
+    "id": 10,
+    "title": "Emirda⁄ Hayatı",
+    "startPage": 689,
+    "pdfPage": 689,
+    "paragraphCount": 677,
+    "lugatCount": 1703
+   },
+   {
+    "id": 11,
+    "title": "Afyon Hayatı",
+    "startPage": 825,
+    "pdfPage": 822,
+    "paragraphCount": 366,
+    "lugatCount": 1448
+   },
+   {
+    "id": 12,
+    "title": "Isparta Hayatı",
+    "startPage": 927,
+    "pdfPage": 927,
+    "paragraphCount": 710,
+    "lugatCount": 1966
+   },
+   {
+    "id": 13,
+    "title": "Risale-i Nur Ve Hariç Memleketler",
+    "startPage": 1099,
+    "pdfPage": 1099,
+    "paragraphCount": 306,
+    "lugatCount": 652
+   },
+   {
+    "id": 14,
+    "title": "Ekler",
+    "startPage": 1149,
+    "pdfPage": 1146,
+    "paragraphCount": 8,
+    "lugatCount": 0
+   },
+   {
+    "id": 15,
+    "title": "Şahıs Bilgileri",
+    "startPage": 1147,
+    "pdfPage": 1147,
+    "paragraphCount": 406,
+    "lugatCount": 0
+   },
+   {
+    "id": 16,
+    "title": "Yer Bilgileri",
+    "startPage": 1201,
+    "pdfPage": 1201,
+    "paragraphCount": 212,
+    "lugatCount": 0
+   },
+   {
+    "id": 17,
+    "title": "Arapça Metin İndeksi",
+    "startPage": 1227,
+    "pdfPage": 1227,
+    "paragraphCount": 611,
+    "lugatCount": 0
+   },
+   {
+    "id": 18,
+    "title": "Hadis İndeksi",
+    "startPage": 1245,
+    "pdfPage": 1241,
+    "paragraphCount": 24,
+    "lugatCount": 0
+   },
+   {
+    "id": 19,
+    "title": "Şahıs İndeksi",
+    "startPage": 1242,
+    "pdfPage": 1242,
+    "paragraphCount": 196,
+    "lugatCount": 0
+   },
+   {
+    "id": 20,
+    "title": "Yer İndeksi",
+    "startPage": 1250,
+    "pdfPage": 1250,
+    "paragraphCount": 187,
+    "lugatCount": 0
+   },
+   {
+    "id": 21,
+    "title": "Genel İndeks",
+    "startPage": 1256,
+    "pdfPage": 1256,
+    "paragraphCount": 13,
+    "lugatCount": 0
+   },
+   {
+    "id": 22,
+    "title": "Kronolojik Bilgiler",
+    "startPage": 1372,
+    "pdfPage": 1372,
+    "paragraphCount": 851,
+    "lugatCount": 0
+   }
+  ]
+ }
+}
