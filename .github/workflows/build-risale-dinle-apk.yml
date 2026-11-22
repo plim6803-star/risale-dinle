@@ -1,0 +1,47 @@
+name: Build Risale Dinle Android APK
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'android-app/**'
+      - '.github/workflows/build-risale-dinle-apk.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build-apk:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+
+      - name: Build and Sign Risale-Dinle-v11.apk
+        run: |
+          chmod +x android-app/build_apk.sh
+          ./android-app/build_apk.sh
+
+      - name: Upload APK Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Risale-Dinle-v11-APK
+          path: Risale-Dinle-v11.apk
+
+      - name: Publish APK to GitHub Release v11.0-android
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if gh release view v11.0-android >/dev/null 2>&1; then
+            gh release upload v11.0-android Risale-Dinle-v11.apk --clobber
+          else
+            gh release create v11.0-android Risale-Dinle-v11.apk \
+              --title "Risale Dinle v11.0 — Android Uygulaması (.APK)" \
+              --notes "Risale Dinle v11.0 imzalı Android kurulum paketi (Risale-Dinle-v11.apk). 117 Hikmetli ve Künyeli Konu Fihristi, 2.373 Saniye-Eşleşmeli Kesit, Kişisel Radyo Akışı, Çoklu API Destekli AI Liste, 26 Dahili Fon Müziği ve Kur'an/Besmele 2.5 sn Ön-Susturma içerir."
+          fi

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.benimradyom.app">
+
+    <!-- Cihazdaki muzik ve ses kayitlarini uygulama icinde listeleyebilmek icin -->
+    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
+    <uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="32" />
+
+    <!-- Arka planda yayin -->
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <!-- Bildirim ve medya kontrolleri -->
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+
+    <!-- Zamanlayicilar ve yeniden baslatmada korunmalari -->
+    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+    <uses-permission android:name="android.permission.USE_EXACT_ALARM" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <!-- Uygulama ici anons kaydi -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <!-- Istege bagli akilli yayin planlayicisi. Ses dosyalari API'ye gonderilmez. -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".BenimRadyomApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BenimRadyom">
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:launchMode="singleTop"
+            android:theme="@style/Theme.BenimRadyom"
+            android:windowSoftInputMode="adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Radyo motoru burada yasar; arayuz kapansa da yayin surer. -->
+        <service
+            android:name=".service.RadioService"
+            android:exported="true"
+            android:foregroundServiceType="mediaPlayback"
+            tools:ignore="ExportedService">
+            <intent-filter>
+                <action android:name="androidx.media3.session.MediaSessionService" />
+                <action android:name="android.media.browse.MediaBrowserService" />
+            </intent-filter>
+        </service>
+
+        <!-- Zamanlayici alarmlari -->
+        <receiver
+            android:name=".service.ScheduleReceiver"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.benimradyom.app.PROGRAM_START" />
+                <action android:name="com.benimradyom.app.PROGRAM_STOP" />
+            </intent-filter>
+        </receiver>
+
+        <!-- Telefon yeniden baslayinca zamanlayicilari geri kur -->
+        <receiver
+            android:name=".service.BootReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+            </intent-filter>
+        </receiver>
+
+        <!--
+            Kutuphanelerin kendi baslatma bildirimleri. Normalde Gradle'in
+            manifest birlestiricisi ekler; burada elle yaziyoruz.
+        -->
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.benimradyom.app.androidx-startup"
+            android:exported="false">
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+                android:value="androidx.startup" />
+        </provider>
+
+        <!-- Ana ekran widget'i -->
+        <receiver
+            android:name=".widget.RadioWidget"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/radio_widget_info" />
+        </receiver>
+
+    </application>
+
+    <queries>
+        <intent>
+            <action android:name="android.intent.action.TTS_SERVICE" />
+        </intent>
+    </queries>
+
+</manifest>

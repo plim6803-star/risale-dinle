@@ -1,0 +1,18 @@
+{
+  "name": "Risale Dinle — Risale-i Nur Külliyatı Dinleme Uygulaması",
+  "short_name": "Risale Dinle",
+  "description": "Saniye-saniye eşleşmeli, hikmetli sıralamalı, 26 fonlu ve kişisel radyo akışlı Risale-i Nur dinleme uygulaması.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f9f6f0",
+  "theme_color": "#181512",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
